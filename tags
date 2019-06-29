@@ -1,0 +1,2012 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/2b0aa59c/
+${EXE}	acl/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	altio/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	cap/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	cgroups/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	daemons/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	dirs_links/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	filebuff/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	fileio/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	filelock/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	files/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	filesys/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	getopt/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	inotify/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	loginacct/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	memalloc/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	mmap/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	myprog/Makefile	/^${EXE} : ${TLPI_LIB}$/;"	t
+${EXE}	namespaces/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	pgsjc/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	pipes/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	pmsg/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	proc/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	proccred/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	procexec/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	procpri/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	procres/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	progconc/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	psem/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	pshm/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	pty/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	seccomp/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	shlibs/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	signals/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	sockets/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	svipc/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	svmsg/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	svsem/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	svshm/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	sysinfo/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	syslim/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	threads/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	time/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	timers/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	tty/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	users_groups/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	vdso/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	vmem/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${EXE}	xattr/Makefile	/^${EXE} : ${TLPI_LIB}		# True as a rough approximation$/;"	t
+${TLPI_LIB}	lib/Makefile	/^${TLPI_LIB} : ${OBJECTS}$/;"	t
+ADDRSTRLEN	sockets/is_seqnum_sv.c	/^#define ADDRSTRLEN /;"	d	file:
+ALT_FUNCTIONS_H	lib/alt_functions.h	/^#define ALT_FUNCTIONS_H /;"	d
+ALT_hstrerror	lib/alt_functions.c	/^ALT_hstrerror(int err)$/;"	f	typeref:typename:char *
+ALT_posix_openpt	lib/alt_functions.c	/^ALT_posix_openpt(int flags)$/;"	f	typeref:typename:int
+ALT_strsignal	lib/alt_functions.c	/^ALT_strsignal(int sig)$/;"	f	typeref:typename:char *
+AccessControlEntry	acl/acl_update.c	/^struct AccessControlEntry {     \/* Represent a single ACL entry *\/$/;"	s	file:
+AddNamespace	namespaces/pid_namespaces.go	/^func AddNamespace(namespaceFD int, pid int) NamespaceID {$/;"	f	package:main	typeref:typename:NamespaceID
+AddNamespace	namespaces/userns_overview.go	/^func AddNamespace(namespaceFD int, pid int) NamespaceID {$/;"	f	package:main	typeref:typename:NamespaceID
+AddProcessNamespace	namespaces/pid_namespaces.go	/^func AddProcessNamespace(pid string) {$/;"	f	package:main
+BACKLOG	sockets/is_seqnum_sv.c	/^#define BACKLOG /;"	d	file:
+BACKLOG	sockets/us_xfr_sv.c	/^#define BACKLOG /;"	d	file:
+BD_MAX_CLOSE	daemons/become_daemon.h	/^#define BD_MAX_CLOSE /;"	d
+BD_MAX_CLOSE	lib/become_daemon.h	/^#define BD_MAX_CLOSE /;"	d
+BD_NO_CHDIR	daemons/become_daemon.h	/^#define BD_NO_CHDIR /;"	d
+BD_NO_CHDIR	lib/become_daemon.h	/^#define BD_NO_CHDIR /;"	d
+BD_NO_CLOSE_FILES	daemons/become_daemon.h	/^#define BD_NO_CLOSE_FILES /;"	d
+BD_NO_CLOSE_FILES	lib/become_daemon.h	/^#define BD_NO_CLOSE_FILES /;"	d
+BD_NO_REOPEN_STD_FDS	daemons/become_daemon.h	/^#define BD_NO_REOPEN_STD_FDS /;"	d
+BD_NO_REOPEN_STD_FDS	lib/become_daemon.h	/^#define BD_NO_REOPEN_STD_FDS /;"	d
+BD_NO_UMASK0	daemons/become_daemon.h	/^#define BD_NO_UMASK0 /;"	d
+BD_NO_UMASK0	lib/become_daemon.h	/^#define BD_NO_UMASK0 /;"	d
+BECOME_DAEMON_H	daemons/become_daemon.h	/^#define BECOME_DAEMON_H$/;"	d
+BECOME_DAEMON_H	lib/become_daemon.h	/^#define BECOME_DAEMON_H$/;"	d
+BINARY_SEMS_H	lib/binary_sems.h	/^#define BINARY_SEMS_H$/;"	d
+BINARY_SEMS_H	svsem/binary_sems.h	/^#define BINARY_SEMS_H$/;"	d
+BLINK	cgroups/view_v2_cgroups.go	/^const BLINK = ESC + "[5m"$/;"	c	package:main
+BLUE	cgroups/view_v2_cgroups.go	/^const BLUE = ESC + "[34m"$/;"	c	package:main
+BOLD	cgroups/view_v2_cgroups.go	/^const BOLD = ESC + "[1m"$/;"	c	package:main
+BOLD	namespaces/namespaces_of.go	/^const BOLD = ESC + "[1m"$/;"	c	package:main
+BRIGHT_YELLOW	cgroups/view_v2_cgroups.go	/^const BRIGHT_YELLOW = ESC + "[93m"$/;"	c	package:main
+BUF_LEN	inotify/demo_inotify.c	/^#define BUF_LEN /;"	d	file:
+BUF_SIZE	altio/select_mq.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	dirs_links/t_unlink.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	dirs_links/view_symlink.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	filebuff/copy.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	fileio/copy.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	filelock/create_pid_file.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	lib/alt_functions.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	lib/create_pid_file.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	lib/curr_time.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	lib/error_functions.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	namespaces/hostname.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	pipes/change_case.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	pipes/simple_pipe.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	pty/script.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	pty/unbuffer.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	sockets/i6d_ucase.h	/^#define BUF_SIZE /;"	d
+BUF_SIZE	sockets/id_echo.h	/^#define BUF_SIZE /;"	d
+BUF_SIZE	sockets/is_echo_cl.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	sockets/is_echo_inetd_sv.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	sockets/is_echo_sv.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	sockets/is_echo_v2_sv.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	sockets/scm_multi_recv.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	sockets/scm_rights_recv.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	sockets/sendfile.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	sockets/ud_ucase.h	/^#define BUF_SIZE /;"	d
+BUF_SIZE	sockets/us_xfr.h	/^#define BUF_SIZE /;"	d
+BUF_SIZE	sockets/us_xfr_v2.h	/^#define BUF_SIZE /;"	d
+BUF_SIZE	svshm/svshm_xfr.h	/^#define BUF_SIZE /;"	d
+BUF_SIZE	time/curr_time.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	time/show_time.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	timers/timed_read.c	/^#define BUF_SIZE /;"	d	file:
+BUF_SIZE	tty/no_echo.c	/^#define BUF_SIZE /;"	d	file:
+BUILD_DIRS	Makefile	/^BUILD_DIRS = ${DIRS}$/;"	m
+Boolean	lib/tlpi_hdr.h	/^typedef enum { FALSE, TRUE } Boolean;$/;"	t	typeref:enum:__anona08e7bf70103
+CAP_FUNCTIONS_H	cap/cap_functions.h	/^#define CAP_FUNCTIONS_H$/;"	d
+CAP_FUNCTIONS_H	lib/cap_functions.h	/^#define CAP_FUNCTIONS_H$/;"	d
+CFLAGS	psem/Makefile	/^CFLAGS = ${IMPL_CFLAGS} ${IMPL_THREAD_FLAGS}$/;"	m
+CFLAGS	threads/Makefile	/^CFLAGS = ${IMPL_CFLAGS} ${IMPL_THREAD_FLAGS}$/;"	m
+CHILD_SIG	procexec/demo_clone.c	/^#define CHILD_SIG /;"	d	file:
+CHILD_SIG	procexec/t_clone.c	/^#define CHILD_SIG /;"	d	file:
+CLIENT_FIFO_NAME_LEN	pipes/fifo_seqnum.h	/^#define CLIENT_FIFO_NAME_LEN /;"	d
+CLIENT_FIFO_TEMPLATE	pipes/fifo_seqnum.h	/^#define CLIENT_FIFO_TEMPLATE /;"	d
+CLONE_NEWCGROUP	namespaces/namespaces_of.go	/^const CLONE_NEWCGROUP = 0x02000000$/;"	c	package:main
+CLONE_NEWCGROUP	namespaces/ns_child_exec.c	/^#define CLONE_NEWCGROUP /;"	d	file:
+CLONE_NEWCGROUP	namespaces/unshare.c	/^#define CLONE_NEWCGROUP /;"	d	file:
+CLONE_NEWCGROUP	namespaces/userns_child_exec.c	/^#define CLONE_NEWCGROUP /;"	d	file:
+CLONE_NEWIPC	namespaces/namespaces_of.go	/^const CLONE_NEWIPC = 0x08000000$/;"	c	package:main
+CLONE_NEWNET	namespaces/namespaces_of.go	/^const CLONE_NEWNET = 0x40000000$/;"	c	package:main
+CLONE_NEWNS	namespaces/namespaces_of.go	/^const CLONE_NEWNS = 0x00020000$/;"	c	package:main
+CLONE_NEWPID	namespaces/namespaces_of.go	/^const CLONE_NEWPID = 0x20000000$/;"	c	package:main
+CLONE_NEWUSER	namespaces/namespaces_of.go	/^const CLONE_NEWUSER = 0x10000000$/;"	c	package:main
+CLONE_NEWUTS	namespaces/namespaces_of.go	/^const CLONE_NEWUTS = 0x04000000$/;"	c	package:main
+CMD_SIZE	dirs_links/t_unlink.c	/^#define CMD_SIZE /;"	d	file:
+CMD_SIZE	namespaces/simple_init.c	/^#define CMD_SIZE /;"	d	file:
+CMD_SIZE	procexec/make_zombie.c	/^#define CMD_SIZE /;"	d	file:
+CMD_SIZE	vmem/t_mprotect.c	/^#define CMD_SIZE /;"	d	file:
+CONFIG_FILE	daemons/daemon_SIGHUP.c	/^static const char *CONFIG_FILE = "\/tmp\/ds.conf";$/;"	v	typeref:typename:const char *	file:
+CPF_CLOEXEC	filelock/create_pid_file.h	/^#define CPF_CLOEXEC /;"	d
+CPF_CLOEXEC	lib/create_pid_file.h	/^#define CPF_CLOEXEC /;"	d
+CREATE_PID_FILE_H	filelock/create_pid_file.h	/^#define CREATE_PID_FILE_H$/;"	d
+CREATE_PID_FILE_H	lib/create_pid_file.h	/^#define CREATE_PID_FILE_H$/;"	d
+CSEC_STEP	procpri/demo_sched_fifo.c	/^#define CSEC_STEP /;"	d	file:
+CURR_TIME_H	lib/curr_time.h	/^#define CURR_TIME_H /;"	d
+CURR_TIME_H	time/curr_time.h	/^#define CURR_TIME_H /;"	d
+ChildParams	procexec/demo_clone.c	/^} ChildParams;$/;"	t	typeref:struct:__anon7c85c2530108	file:
+CmdLineOptions	cgroups/view_v2_cgroups.go	/^type CmdLineOptions struct {$/;"	s	package:main
+CmdLineOptions	namespaces/namespaces_of.go	/^type CmdLineOptions struct {$/;"	s	package:main
+DIRS	Makefile	/^DIRS = 	lib \\$/;"	m
+DIR_PERMS	files/t_umask.c	/^#define DIR_PERMS /;"	d	file:
+DLIM	inotify/rand_dtree.c	/^#define DLIM /;"	d	file:
+D_INCR	inotify/rand_dtree.c	/^static const int D_INCR = 1000;$/;"	v	typeref:typename:const int	file:
+DisplayNamespaceTree	namespaces/pid_namespaces.go	/^func DisplayNamespaceTree(nsid NamespaceID, level int) {$/;"	f	package:main
+DisplayNamespaceTree	namespaces/userns_overview.go	/^func DisplayNamespaceTree(nsid NamespaceID, level int) {$/;"	f	package:main
+EPOLLEXCLUSIVE	altio/epoll_flags_fork.c	/^#define EPOLLEXCLUSIVE /;"	d	file:
+ERROR_FUNCTIONS_H	lib/error_functions.h	/^#define ERROR_FUNCTIONS_H$/;"	d
+ESC	cgroups/view_v2_cgroups.go	/^const ESC = ""$/;"	c	package:main
+ESC	namespaces/namespaces_of.go	/^const ESC = ""$/;"	c	package:main
+EVENT_FLAGS_H	lib/event_flags.h	/^#define EVENT_FLAGS_H /;"	d
+EVENT_FLAGS_H	svsem/event_flags.h	/^#define EVENT_FLAGS_H /;"	d
+EXE	acl/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	altio/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	cap/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	cgroups/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	daemons/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	dirs_links/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	filebuff/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	fileio/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	filelock/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	files/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	filesys/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE} $/;"	m
+EXE	getopt/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	inotify/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	loginacct/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	memalloc/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	mmap/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	myprog/Makefile	/^EXE = myprog.c$/;"	m
+EXE	namespaces/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	pgsjc/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	pipes/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	pmsg/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	proc/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	proccred/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	procexec/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	procpri/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	procres/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	progconc/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	psem/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	pshm/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	pty/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	seccomp/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	shlibs/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	signals/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	sockets/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	svipc/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	svmsg/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	svsem/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	svshm/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	sysinfo/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	syslim/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	threads/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	time/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	timers/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	tty/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	users_groups/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	vdso/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	vmem/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+EXE	xattr/Makefile	/^EXE = ${GEN_EXE} ${LINUX_EXE}$/;"	m
+FALSE	lib/tlpi_hdr.h	/^typedef enum { FALSE, TRUE } Boolean;$/;"	e	enum:__anona08e7bf70103
+FILE_PERMS	files/t_umask.c	/^#define FILE_PERMS /;"	d	file:
+FILE_PERMS_H	files/file_perms.h	/^#define FILE_PERMS_H$/;"	d
+FILE_PERMS_H	lib/file_perms.h	/^#define FILE_PERMS_H$/;"	d
+FORK_PTY_H	lib/pty_fork.h	/^#define FORK_PTY_H$/;"	d
+FORK_PTY_H	pty/pty_fork.h	/^#define FORK_PTY_H$/;"	d
+FP_SPECIAL	files/file_perms.h	/^#define FP_SPECIAL /;"	d
+FP_SPECIAL	lib/file_perms.h	/^#define FP_SPECIAL /;"	d
+F_OFD_GETLK	filelock/i_fcntl_locking.c	/^#define F_OFD_GETLK /;"	d	file:
+F_OFD_SETLK	filelock/i_fcntl_locking.c	/^#define F_OFD_SETLK /;"	d	file:
+F_OFD_SETLKW	filelock/i_fcntl_locking.c	/^#define F_OFD_SETLKW /;"	d	file:
+GEN_EXE	acl/Makefile	/^GEN_EXE = $/;"	m
+GEN_EXE	altio/Makefile	/^GEN_EXE = demo_sigio poll_pipes select_mq self_pipe t_select$/;"	m
+GEN_EXE	cap/Makefile	/^GEN_EXE = $/;"	m
+GEN_EXE	cgroups/Makefile	/^GEN_EXE = alloc_mem fork_bomb$/;"	m
+GEN_EXE	daemons/Makefile	/^GEN_EXE = daemon_SIGHUP t_syslog test_become_daemon$/;"	m
+GEN_EXE	dirs_links/Makefile	/^GEN_EXE = bad_symlink file_type_stats list_files list_files_readdir_r \\$/;"	m
+GEN_EXE	filebuff/Makefile	/^GEN_EXE = copy mix23_linebuff mix23io \\$/;"	m
+GEN_EXE	fileio/Makefile	/^GEN_EXE = atomic_append bad_exclusive_open copy \\$/;"	m
+GEN_EXE	filelock/Makefile	/^GEN_EXE = i_fcntl_locking t_flock$/;"	m
+GEN_EXE	files/Makefile	/^GEN_EXE = t_chown t_stat t_umask t_utime t_utimes$/;"	m
+GEN_EXE	filesys/Makefile	/^GEN_EXE = t_statvfs$/;"	m
+GEN_EXE	getopt/Makefile	/^GEN_EXE = t_getopt$/;"	m
+GEN_EXE	inotify/Makefile	/^GEN_EXE =$/;"	m
+GEN_EXE	loginacct/Makefile	/^GEN_EXE = $/;"	m
+GEN_EXE	memalloc/Makefile	/^GEN_EXE = free_and_sbrk$/;"	m
+GEN_EXE	mmap/Makefile	/^GEN_EXE = anon_mmap mmcat mmcopy t_mmap$/;"	m
+GEN_EXE	namespaces/Makefile	/^GEN_EXE = orphan $/;"	m
+GEN_EXE	pgsjc/Makefile	/^GEN_EXE = catch_SIGHUP disc_SIGHUP job_mon \\$/;"	m
+GEN_EXE	pipes/Makefile	/^GEN_EXE = change_case fifo_seqnum_client fifo_seqnum_server \\$/;"	m
+GEN_EXE	pmsg/Makefile	/^GEN_EXE = mq_notify_sig mq_notify_sigwaitinfo mq_notify_thread \\$/;"	m
+GEN_EXE	proc/Makefile	/^GEN_EXE = bad_longjmp display_env longjmp \\$/;"	m
+GEN_EXE	proccred/Makefile	/^GEN_EXE =$/;"	m
+GEN_EXE	procexec/Makefile	/^GEN_EXE = acct_on acct_view child_status closeonexec envargs exit_handlers \\$/;"	m
+GEN_EXE	procpri/Makefile	/^GEN_EXE = sched_set sched_view t_setpriority $/;"	m
+GEN_EXE	procres/Makefile	/^GEN_EXE = rusage rusage_wait$/;"	m
+GEN_EXE	progconc/Makefile	/^GEN_EXE = syscall_speed$/;"	m
+GEN_EXE	psem/Makefile	/^GEN_EXE = psem_getvalue psem_create psem_post psem_unlink \\$/;"	m
+GEN_EXE	pshm/Makefile	/^GEN_EXE = pshm_create pshm_read pshm_write pshm_unlink$/;"	m
+GEN_EXE	pty/Makefile	/^GEN_EXE = script unbuffer$/;"	m
+GEN_EXE	seccomp/Makefile	/^GEN_EXE = $/;"	m
+GEN_EXE	shlibs/Makefile	/^GEN_EXE = dynload$/;"	m
+GEN_EXE	signals/Makefile	/^GEN_EXE = catch_rtsigs demo_SIGFPE ignore_pending_sig intquit \\$/;"	m
+GEN_EXE	sockets/Makefile	/^GEN_EXE = i6d_ucase_sv i6d_ucase_cl \\$/;"	m
+GEN_EXE	svipc/Makefile	/^GEN_EXE = svmsg_demo_server t_ftok$/;"	m
+GEN_EXE	svmsg/Makefile	/^GEN_EXE = svmsg_chqbytes svmsg_file_client svmsg_file_server \\$/;"	m
+GEN_EXE	svsem/Makefile	/^GEN_EXE = svsem_create svsem_demo svsem_mon svsem_op svsem_rm svsem_setall $/;"	m
+GEN_EXE	svshm/Makefile	/^GEN_EXE = svshm_attach svshm_create svshm_mon svshm_rm \\$/;"	m
+GEN_EXE	sysinfo/Makefile	/^GEN_EXE = t_uname$/;"	m
+GEN_EXE	syslim/Makefile	/^GEN_EXE = t_fpathconf t_sysconf$/;"	m
+GEN_EXE	threads/Makefile	/^GEN_EXE = detached_attrib one_time_init prod_condvar prod_no_condvar \\$/;"	m
+GEN_EXE	time/Makefile	/^GEN_EXE = calendar_time show_time process_time strtime t_stime$/;"	m
+GEN_EXE	timers/Makefile	/^GEN_EXE = cpu_burner cpu_multi_burner cpu_multithread_burner \\$/;"	m
+GEN_EXE	tty/Makefile	/^GEN_EXE = demo_SIGWINCH new_intr no_echo test_tty_functions $/;"	m
+GEN_EXE	users_groups/Makefile	/^GEN_EXE = t_getpwent t_getpwnam_r$/;"	m
+GEN_EXE	vdso/Makefile	/^GEN_EXE = $/;"	m
+GEN_EXE	vmem/Makefile	/^GEN_EXE = memlock madvise_dontneed$/;"	m
+GEN_EXE	xattr/Makefile	/^GEN_EXE = $/;"	m
+GET_NUM_H	lib/get_num.h	/^#define GET_NUM_H$/;"	d
+GLIBC_DEFINES_ACCT_V3	procexec/acct_v3_view.c	/^#define GLIBC_DEFINES_ACCT_V3 /;"	d	file:
+GN_ANY_BASE	lib/get_num.h	/^#define GN_ANY_BASE /;"	d
+GN_BASE_16	lib/get_num.h	/^#define GN_BASE_16 /;"	d
+GN_BASE_8	lib/get_num.h	/^#define GN_BASE_8 /;"	d
+GN_GT_0	lib/get_num.h	/^#define GN_GT_0 /;"	d
+GN_NONNEG	lib/get_num.h	/^#define GN_NONNEG /;"	d
+GRAY	cgroups/view_v2_cgroups.go	/^const GRAY = ESC + "[38;5;240m"$/;"	c	package:main
+GREEN	cgroups/view_v2_cgroups.go	/^const GREEN = ESC + "[92m"$/;"	c	package:main
+HAVE_ON_EXIT	procexec/exit_handlers.c	/^#define HAVE_ON_EXIT$/;"	d	file:
+INET_SOCKETS_H	lib/inet_sockets.h	/^#define INET_SOCKETS_H /;"	d
+INET_SOCKETS_H	sockets/inet_sockets.h	/^#define INET_SOCKETS_H /;"	d
+INOTIFY_READ_BUF_LEN	inotify/inotify_dtree.c	/^static const int INOTIFY_READ_BUF_LEN =$/;"	v	typeref:typename:const int	file:
+INT_LEN	sockets/is_seqnum.h	/^#define INT_LEN /;"	d
+INT_LEN	sockets/is_seqnum_v2.h	/^#define INT_LEN /;"	d
+IS_ADDR_STR_LEN	lib/inet_sockets.h	/^#define IS_ADDR_STR_LEN /;"	d
+IS_ADDR_STR_LEN	sockets/inet_sockets.h	/^#define IS_ADDR_STR_LEN /;"	d
+ITIMERSPEC_FROM_STR_H	lib/itimerspec_from_str.h	/^#define ITIMERSPEC_FROM_STR_H$/;"	d
+ITIMERSPEC_FROM_STR_H	timers/itimerspec_from_str.h	/^#define ITIMERSPEC_FROM_STR_H$/;"	d
+KEY_FILE	svipc/svmsg_demo_server.c	/^#define KEY_FILE /;"	d	file:
+LDLIBS	acl/Makefile	/^LDLIBS = ${IMPL_LDLIBS} ${LINUX_LIBACL}$/;"	m
+LDLIBS	cap/Makefile	/^LDLIBS = ${IMPL_LDLIBS} ${LINUX_LIBCAP} ${LINUX_LIBCRYPT}$/;"	m
+LDLIBS	pmsg/Makefile	/^LDLIBS = ${IMPL_LDLIBS} ${LINUX_LIBRT}$/;"	m
+LDLIBS	procpri/Makefile	/^LDLIBS = ${IMPL_LDLIBS} #CF[ ${LINUX_LIBRT} ]$/;"	m
+LDLIBS	psem/Makefile	/^LDLIBS = ${IMPL_LDLIBS} ${IMPL_THREAD_FLAGS}$/;"	m
+LDLIBS	pshm/Makefile	/^LDLIBS = ${IMPL_LDLIBS} ${LINUX_LIBRT}$/;"	m
+LDLIBS	threads/Makefile	/^LDLIBS = ${IMPL_LDLIBS} ${IMPL_THREAD_FLAGS}$/;"	m
+LDLIBS	timers/Makefile	/^LDLIBS = ${IMPL_LDLIBS} ${LINUX_LIBRT} ${IMPL_THREAD_FLAGS}$/;"	m
+LEN	vmem/t_mprotect.c	/^#define LEN /;"	d	file:
+LIGHT_BLUE	cgroups/view_v2_cgroups.go	/^const LIGHT_BLUE = ESC + "[38;5;51m"$/;"	c	package:main
+LIGHT_BLUE	namespaces/namespaces_of.go	/^const LIGHT_BLUE = ESC + "[38;5;51m"$/;"	c	package:main
+LIGHT_PURPLE	cgroups/view_v2_cgroups.go	/^const LIGHT_PURPLE = ESC + "[38;5;93m"$/;"	c	package:main
+LINUX_EXE	acl/Makefile	/^LINUX_EXE = acl_update acl_view$/;"	m
+LINUX_EXE	altio/Makefile	/^LINUX_EXE = epoll_flags_fork epoll_input multithread_epoll_wait$/;"	m
+LINUX_EXE	cap/Makefile	/^LINUX_EXE = cap_launcher cap_text check_password_caps \\$/;"	m
+LINUX_EXE	dirs_links/Makefile	/^LINUX_EXE =$/;"	m
+LINUX_EXE	filebuff/Makefile	/^LINUX_EXE = direct_read$/;"	m
+LINUX_EXE	fileio/Makefile	/^LINUX_EXE = large_file$/;"	m
+LINUX_EXE	files/Makefile	/^LINUX_EXE = chiflag$/;"	m
+LINUX_EXE	filesys/Makefile	/^LINUX_EXE = t_statfs t_mount t_umount$/;"	m
+LINUX_EXE	getopt/Makefile	/^LINUX_EXE = $/;"	m
+LINUX_EXE	inotify/Makefile	/^LINUX_EXE = demo_inotify dnotify inotify_dtree rand_dtree$/;"	m
+LINUX_EXE	loginacct/Makefile	/^LINUX_EXE = dump_utmpx utmpx_login view_lastlog $/;"	m
+LINUX_EXE	memalloc/Makefile	/^LINUX_EXE =$/;"	m
+LINUX_EXE	mmap/Makefile	/^LINUX_EXE = t_remap_file_pages$/;"	m
+LINUX_EXE	namespaces/Makefile	/^LINUX_EXE = \\$/;"	m
+LINUX_EXE	pmsg/Makefile	/^LINUX_EXE =$/;"	m
+LINUX_EXE	proc/Makefile	/^LINUX_EXE = modify_env$/;"	m
+LINUX_EXE	proccred/Makefile	/^LINUX_EXE = idshow$/;"	m
+LINUX_EXE	procexec/Makefile	/^LINUX_EXE = demo_clone t_clone acct_v3_view$/;"	m
+LINUX_EXE	procpri/Makefile	/^LINUX_EXE = demo_sched_fifo t_sched_setaffinity t_sched_getaffinity$/;"	m
+LINUX_EXE	procres/Makefile	/^LINUX_EXE = rlimit_nproc$/;"	m
+LINUX_EXE	progconc/Makefile	/^LINUX_EXE =$/;"	m
+LINUX_EXE	psem/Makefile	/^LINUX_EXE =$/;"	m
+LINUX_EXE	pshm/Makefile	/^LINUX_EXE =$/;"	m
+LINUX_EXE	pty/Makefile	/^LINUX_EXE = $/;"	m
+LINUX_EXE	seccomp/Makefile	/^LINUX_EXE = dump_seccomp_filter \\$/;"	m
+LINUX_EXE	shlibs/Makefile	/^LINUX_EXE =$/;"	m
+LINUX_EXE	signals/Makefile	/^LINUX_EXE = signalfd_sigval$/;"	m
+LINUX_EXE	sockets/Makefile	/^LINUX_EXE = list_host_addresses \\$/;"	m
+LINUX_EXE	svipc/Makefile	/^LINUX_EXE = $/;"	m
+LINUX_EXE	svmsg/Makefile	/^LINUX_EXE = svmsg_info svmsg_ls $/;"	m
+LINUX_EXE	svsem/Makefile	/^LINUX_EXE = svsem_info$/;"	m
+LINUX_EXE	svshm/Makefile	/^LINUX_EXE = svshm_info svshm_lock svshm_unlock$/;"	m
+LINUX_EXE	sysinfo/Makefile	/^LINUX_EXE = procfs_pidmax procfs_user_exe$/;"	m
+LINUX_EXE	syslim/Makefile	/^LINUX_EXE =$/;"	m
+LINUX_EXE	threads/Makefile	/^LINUX_EXE = strerror_test_tls$/;"	m
+LINUX_EXE	timers/Makefile	/^LINUX_EXE = demo_timerfd t_clock_nanosleep$/;"	m
+LINUX_EXE	users_groups/Makefile	/^LINUX_EXE = check_password idshow$/;"	m
+LINUX_EXE	vdso/Makefile	/^LINUX_EXE = vdso_gettimeofday syscall_gettimeofday$/;"	m
+LINUX_EXE	vmem/Makefile	/^LINUX_EXE = t_mprotect $/;"	m
+LINUX_EXE	xattr/Makefile	/^LINUX_EXE = t_setxattr xattr_view$/;"	m
+LOG_FILE	daemons/daemon_SIGHUP.c	/^static const char *LOG_FILE = "\/tmp\/ds.log";$/;"	v	typeref:typename:const char *	file:
+MAGENTA	cgroups/view_v2_cgroups.go	/^const MAGENTA = ESC + "[35m"$/;"	c	package:main
+MAP_ANONYMOUS	lib/tlpi_hdr.h	/^#define MAP_ANONYMOUS /;"	d
+MAP_SIZE	vmem/madvise_dontneed.c	/^#define MAP_SIZE /;"	d	file:
+MARKER_STRING	inotify/rand_dtree.c	/^#define MARKER_STRING /;"	d	file:
+MAX_ALLOCS	memalloc/free_and_sbrk.c	/^#define MAX_ALLOCS /;"	d	file:
+MAX_BUF	altio/epoll_input.c	/^#define MAX_BUF /;"	d	file:
+MAX_CMD_LEN	procexec/t_system.c	/^#define MAX_CMD_LEN /;"	d	file:
+MAX_ENTRIES	acl/acl_update.c	/^#define MAX_ENTRIES /;"	d	file:
+MAX_ERROR_LEN	threads/strerror.c	/^#define MAX_ERROR_LEN /;"	d	file:
+MAX_ERROR_LEN	threads/strerror_tls.c	/^#define MAX_ERROR_LEN /;"	d	file:
+MAX_ERROR_LEN	threads/strerror_tsd.c	/^#define MAX_ERROR_LEN /;"	d	file:
+MAX_EVENTS	altio/epoll_input.c	/^#define MAX_EVENTS /;"	d	file:
+MAX_EVENTS	altio/multithread_epoll_wait.c	/^#define MAX_EVENTS /;"	d	file:
+MAX_FDS	sockets/scm_multi.h	/^#define MAX_FDS /;"	d
+MAX_LINE	filelock/i_fcntl_locking.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	sysinfo/procfs_pidmax.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	sysinfo/procfs_user_exe.c	/^#define MAX_LINE /;"	d	file:
+MAX_MTEXT	altio/select_mq.c	/^#define MAX_MTEXT /;"	d	file:
+MAX_MTEXT	svmsg/svmsg_receive.c	/^#define MAX_MTEXT /;"	d	file:
+MAX_MTEXT	svmsg/svmsg_send.c	/^#define MAX_MTEXT /;"	d	file:
+MAX_OPT	namespaces/userns_child_exec.c	/^#define MAX_OPT /;"	d	file:
+MAX_SEMOPS	svsem/svsem_op.c	/^#define MAX_SEMOPS /;"	d	file:
+MAX_SNAME	lib/pty_fork.c	/^#define MAX_SNAME /;"	d	file:
+MAX_SNAME	pty/pty_fork.c	/^#define MAX_SNAME /;"	d	file:
+MAX_SNAME	pty/script.c	/^#define MAX_SNAME /;"	d	file:
+MAX_SNAME	pty/unbuffer.c	/^#define MAX_SNAME /;"	d	file:
+MEM_SIZE	mmap/t_mmap.c	/^#define MEM_SIZE /;"	d	file:
+MS_BIND	filesys/t_mount.c	/^#define MS_BIND /;"	d	file:
+MS_DIRSYNC	filesys/t_mount.c	/^#define MS_DIRSYNC /;"	d	file:
+MS_LAZYTIME	filesys/t_mount.c	/^#define MS_LAZYTIME /;"	d	file:
+MS_MOVE	filesys/t_mount.c	/^#define MS_MOVE /;"	d	file:
+MS_PRIVATE	filesys/t_mount.c	/^#define MS_PRIVATE /;"	d	file:
+MS_REC	filesys/t_mount.c	/^#define MS_REC /;"	d	file:
+MS_SHARED	filesys/t_mount.c	/^#define MS_SHARED /;"	d	file:
+MS_SLAVE	filesys/t_mount.c	/^#define MS_SLAVE /;"	d	file:
+MS_UNBINDABLE	filesys/t_mount.c	/^#define MS_UNBINDABLE /;"	d	file:
+MYDIR	files/t_umask.c	/^#define MYDIR /;"	d	file:
+MYFILE	files/t_umask.c	/^#define MYFILE /;"	d	file:
+NANO	timers/cpu_multi_burner.c	/^#define NANO /;"	d	file:
+NANO	timers/cpu_multithread_burner.c	/^#define NANO /;"	d	file:
+NORETURN	lib/error_functions.h	/^#define NORETURN /;"	d
+NORETURN	lib/error_functions.h	/^#define NORETURN$/;"	d
+NORMAL	cgroups/view_v2_cgroups.go	/^const NORMAL = ESC + "(B" + ESC + "[m"$/;"	c	package:main
+NORMAL	namespaces/namespaces_of.go	/^const NORMAL = ESC + "(B" + ESC + "[m"$/;"	c	package:main
+NOTIFY_SIG	pmsg/mq_notify_sig.c	/^#define NOTIFY_SIG /;"	d	file:
+NOTIFY_SIG	pmsg/mq_notify_siginfo.c	/^#define NOTIFY_SIG /;"	d	file:
+NOTIFY_SIG	pmsg/mq_notify_sigwaitinfo.c	/^#define NOTIFY_SIG /;"	d	file:
+NOTIFY_SIG	pmsg/mq_notify_via_signal.c	/^#define NOTIFY_SIG /;"	d	file:
+NO_POSIX_OPENPT	lib/pty_master_open.c	/^#define NO_POSIX_OPENPT$/;"	d	file:
+NO_POSIX_OPENPT	pty/pty_master_open.c	/^#define NO_POSIX_OPENPT$/;"	d	file:
+NR_mq_notify_i386	seccomp/seccomp_multiarch.c	/^#define NR_mq_notify_i386 /;"	d	file:
+NR_mq_notify_x32	seccomp/seccomp_multiarch.c	/^#define NR_mq_notify_x32 /;"	d	file:
+NR_mq_notify_x86_64	seccomp/seccomp_multiarch.c	/^#define NR_mq_notify_x86_64 /;"	d	file:
+NSECS	procres/rusage_wait.c	/^#define NSECS /;"	d	file:
+NSIO	namespaces/ns_capable.c	/^#define NSIO /;"	d	file:
+NSList	namespaces/pid_namespaces.go	/^var NSList = make(map[NamespaceID]*NamespaceAttribs)$/;"	v	package:main
+NSList	namespaces/userns_overview.go	/^var NSList = make(map[NamespaceID]*NamespaceAttribs)$/;"	v	package:main
+NS_GET_NSTYPE	namespaces/namespaces_of.go	/^const NS_GET_NSTYPE = 0xb703    \/\/ Return namespace type (see below)$/;"	c	package:main
+NS_GET_NSTYPE	namespaces/ns_capable.c	/^#define NS_GET_NSTYPE /;"	d	file:
+NS_GET_OWNER_UID	namespaces/namespaces_of.go	/^const NS_GET_OWNER_UID = 0xb704 \/\/ Return creator UID for user NS$/;"	c	package:main
+NS_GET_OWNER_UID	namespaces/ns_capable.c	/^#define NS_GET_OWNER_UID /;"	d	file:
+NS_GET_PARENT	namespaces/namespaces_of.go	/^const NS_GET_PARENT = 0xb702    \/\/ Get parent NS (for user or PID NS)$/;"	c	package:main
+NS_GET_PARENT	namespaces/ns_capable.c	/^#define NS_GET_PARENT /;"	d	file:
+NS_GET_USERNS	namespaces/namespaces_of.go	/^const NS_GET_USERNS = 0xb701    \/\/ Get owning user NS (or parent of user NS)$/;"	c	package:main
+NS_GET_USERNS	namespaces/ns_capable.c	/^#define NS_GET_USERNS /;"	d	file:
+NamespaceAttribs	namespaces/namespaces_of.go	/^type NamespaceAttribs struct {$/;"	s	package:main
+NamespaceAttribs	namespaces/pid_namespaces.go	/^type NamespaceAttribs struct {$/;"	s	package:main
+NamespaceAttribs	namespaces/userns_overview.go	/^type NamespaceAttribs struct {$/;"	s	package:main
+NamespaceID	namespaces/namespaces_of.go	/^type NamespaceID struct {$/;"	s	package:main
+NamespaceID	namespaces/pid_namespaces.go	/^type NamespaceID struct {$/;"	s	package:main
+NamespaceID	namespaces/userns_overview.go	/^type NamespaceID struct {$/;"	s	package:main
+NamespaceInfo	namespaces/namespaces_of.go	/^type NamespaceInfo struct {$/;"	s	package:main
+NamespaceList	namespaces/namespaces_of.go	/^type NamespaceList map[NamespaceID]*NamespaceAttribs$/;"	t	package:main	typeref:typename:map[NamespaceID]*NamespaceAttribs
+NewNamespaceID	namespaces/pid_namespaces.go	/^func NewNamespaceID(namespaceFD int) NamespaceID {$/;"	f	package:main	typeref:typename:NamespaceID
+OBJECTS	lib/Makefile	/^OBJECTS=$(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+OBJ_PERMS	svshm/svshm_xfr.h	/^#define OBJ_PERMS /;"	d
+ONCE_INITIALIZER	threads/one_time_init.c	/^#define ONCE_INITIALIZER /;"	d	file:
+O_ASYNC	lib/tlpi_hdr.h	/^#define O_ASYNC /;"	d
+O_SYNC	lib/tlpi_hdr.h	/^#define O_SYNC /;"	d
+PAT_SIZE	pipes/popen_glob.c	/^#define PAT_SIZE /;"	d	file:
+PCMD_BUF_SIZE	pipes/popen_glob.c	/^#define PCMD_BUF_SIZE /;"	d	file:
+PID_COLOR	namespaces/namespaces_of.go	/^const PID_COLOR = LIGHT_BLUE$/;"	c	package:main
+POPEN_FMT	pipes/popen_glob.c	/^#define POPEN_FMT /;"	d	file:
+PORT_NUM	sockets/i6d_ucase.h	/^#define PORT_NUM /;"	d
+PORT_NUM	sockets/is_seqnum.h	/^#define PORT_NUM /;"	d
+PORT_NUM_STR	sockets/is_seqnum_v2.h	/^#define PORT_NUM_STR /;"	d
+PRCAP_SHOW_ALL	cap/cap_text.c	/^#define PRCAP_SHOW_ALL /;"	d	file:
+PRCAP_SHOW_UNRECOGNIZED	cap/cap_text.c	/^#define PRCAP_SHOW_UNRECOGNIZED /;"	d	file:
+PRINT_RLIMIT_H	lib/print_rlimit.h	/^#define PRINT_RLIMIT_H$/;"	d
+PRINT_RLIMIT_H	procres/print_rlimit.h	/^#define PRINT_RLIMIT_H$/;"	d
+PRINT_RUSAGE_H	lib/print_rusage.h	/^#define PRINT_RUSAGE_H$/;"	d
+PRINT_RUSAGE_H	procres/print_rusage.h	/^#define PRINT_RUSAGE_H$/;"	d
+PRINT_WAIT_STATUS_H	lib/print_wait_status.h	/^#define PRINT_WAIT_STATUS_H$/;"	d
+PRINT_WAIT_STATUS_H	procexec/print_wait_status.h	/^#define PRINT_WAIT_STATUS_H$/;"	d
+PTYM_PREFIX	pty/pty_master_open_bsd.c	/^#define PTYM_PREFIX /;"	d	file:
+PTYS_PREFIX	pty/pty_master_open_bsd.c	/^#define PTYS_PREFIX /;"	d	file:
+PTY_MASTER_OPEN_H	lib/pty_master_open.h	/^#define PTY_MASTER_OPEN_H$/;"	d
+PTY_MASTER_OPEN_H	pty/pty_master_open.h	/^#define PTY_MASTER_OPEN_H$/;"	d
+PTY_NAME_LEN	pty/pty_master_open_bsd.c	/^#define PTY_NAME_LEN /;"	d	file:
+PTY_PREFIX_LEN	pty/pty_master_open_bsd.c	/^#define PTY_PREFIX_LEN /;"	d	file:
+PrintAllPIDsFor	namespaces/pid_namespaces.go	/^func PrintAllPIDsFor(pid int) {$/;"	f	package:main
+PrintMemberPIDs	namespaces/pid_namespaces.go	/^func PrintMemberPIDs(indent string, pids []int) {$/;"	f	package:main
+ProcessProcFile	namespaces/userns_overview.go	/^func ProcessProcFile(name string) {$/;"	f	package:main
+RDWRN_H	lib/rdwrn.h	/^#define RDWRN_H$/;"	d
+RDWRN_H	sockets/rdwrn.h	/^#define RDWRN_H$/;"	d
+READ_LINE_BUF_H	lib/read_line_buf.h	/^#define READ_LINE_BUF_H$/;"	d
+READ_LINE_BUF_H	sockets/read_line_buf.h	/^#define READ_LINE_BUF_H$/;"	d
+READ_LINE_H	lib/read_line.h	/^#define READ_LINE_H$/;"	d
+READ_LINE_H	sockets/read_line.h	/^#define READ_LINE_H$/;"	d
+READ_SEM	svshm/svshm_xfr.h	/^#define READ_SEM /;"	d
+RED	cgroups/view_v2_cgroups.go	/^const RED = ESC + "[31m"$/;"	c	package:main
+RED	namespaces/namespaces_of.go	/^const RED = ESC + "[31m"$/;"	c	package:main
+REGION_LOCKING_H	filelock/region_locking.h	/^#define REGION_LOCKING_H$/;"	d
+REGION_LOCKING_H	lib/region_locking.h	/^#define REGION_LOCKING_H$/;"	d
+REQ_MSG_SIZE	svmsg/svmsg_file.h	/^#define REQ_MSG_SIZE /;"	d
+RESP_MSG_SIZE	svmsg/svmsg_file.h	/^#define RESP_MSG_SIZE /;"	d
+RESP_MT_DATA	svmsg/svmsg_file.h	/^#define RESP_MT_DATA /;"	d
+RESP_MT_END	svmsg/svmsg_file.h	/^#define RESP_MT_END /;"	d
+RESP_MT_FAILURE	svmsg/svmsg_file.h	/^#define RESP_MT_FAILURE /;"	d
+REVERSE	cgroups/view_v2_cgroups.go	/^const REVERSE = ESC + "[7m"$/;"	c	package:main
+RL_MAX_BUF	lib/read_line_buf.h	/^#define RL_MAX_BUF /;"	d
+RL_MAX_BUF	sockets/read_line_buf.h	/^#define RL_MAX_BUF /;"	d
+ReadLineBuf	lib/read_line_buf.h	/^struct ReadLineBuf {$/;"	s
+ReadLineBuf	sockets/read_line_buf.h	/^struct ReadLineBuf {$/;"	s
+SBUF_SIZE	daemons/daemon_SIGHUP.c	/^#define SBUF_SIZE /;"	d	file:
+SBUF_SIZE	time/strtime.c	/^#define SBUF_SIZE /;"	d	file:
+SCM_FUNCTIONS_H	lib/scm_functions.h	/^#define SCM_FUNCTIONS_H /;"	d
+SCM_FUNCTIONS_H	sockets/scm_functions.h	/^#define SCM_FUNCTIONS_H /;"	d
+SECCOMP_RET_KILL_PROCESS	seccomp/seccomp_arg64.c	/^#define SECCOMP_RET_KILL_PROCESS /;"	d	file:
+SECCOMP_RET_KILL_PROCESS	seccomp/seccomp_control_open.c	/^#define SECCOMP_RET_KILL_PROCESS /;"	d	file:
+SECCOMP_RET_KILL_PROCESS	seccomp/seccomp_deny_open.c	/^#define SECCOMP_RET_KILL_PROCESS /;"	d	file:
+SECCOMP_RET_KILL_PROCESS	seccomp/seccomp_logging.c	/^#define SECCOMP_RET_KILL_PROCESS /;"	d	file:
+SECCOMP_RET_KILL_PROCESS	seccomp/seccomp_multiarch.c	/^#define SECCOMP_RET_KILL_PROCESS /;"	d	file:
+SECCOMP_RET_KILL_PROCESS	seccomp/seccomp_perf.c	/^#define SECCOMP_RET_KILL_PROCESS /;"	d	file:
+SECCOMP_RET_LOG	seccomp/seccomp_logging.c	/^#define SECCOMP_RET_LOG /;"	d	file:
+SECONDS_IN_TROPICAL_YEAR	time/calendar_time.c	/^#define SECONDS_IN_TROPICAL_YEAR /;"	d	file:
+SEMUN_H	lib/semun.h	/^#define SEMUN_H /;"	d
+SEMUN_H	svsem/semun.h	/^#define SEMUN_H /;"	d
+SEM_KEY	svshm/svshm_xfr.h	/^#define SEM_KEY /;"	d
+SERVER_FIFO	pipes/fifo_seqnum.h	/^#define SERVER_FIFO /;"	d
+SERVER_KEY	svmsg/svmsg_file.h	/^#define SERVER_KEY /;"	d
+SERVICE	sockets/id_echo.h	/^#define SERVICE /;"	d
+SERVICE	sockets/is_echo_sv.c	/^#define SERVICE /;"	d	file:
+SERVICE	sockets/is_echo_v2_sv.c	/^#define SERVICE /;"	d	file:
+SG_SIZE	proccred/idshow.c	/^#define SG_SIZE /;"	d	file:
+SHELL_FMT	vmem/t_mprotect.c	/^#define SHELL_FMT /;"	d	file:
+SHELL_PATH	procexec/execlp.c	/^#define SHELL_PATH /;"	d	file:
+SHM_KEY	svshm/svshm_xfr.h	/^#define SHM_KEY /;"	d
+SIG	procres/rusage_wait.c	/^#define SIG /;"	d	file:
+SIGNAL_FUNCTIONS_H	lib/signal_functions.h	/^#define SIGNAL_FUNCTIONS_H$/;"	d
+SIGNAL_FUNCTIONS_H	signals/signal_functions.h	/^#define SIGNAL_FUNCTIONS_H$/;"	d
+SOCK_PATH	sockets/scm_cred.h	/^#define SOCK_PATH /;"	d
+SOCK_PATH	sockets/scm_multi.h	/^#define SOCK_PATH /;"	d
+SOCK_PATH	sockets/scm_rights.h	/^#define SOCK_PATH /;"	d
+STACK_SIZE	namespaces/demo_userns.c	/^#define STACK_SIZE /;"	d	file:
+STACK_SIZE	namespaces/demo_uts_namespaces.c	/^#define STACK_SIZE /;"	d	file:
+STACK_SIZE	namespaces/multi_pidns.c	/^#define STACK_SIZE /;"	d	file:
+STACK_SIZE	namespaces/ns_child_exec.c	/^#define STACK_SIZE /;"	d	file:
+STACK_SIZE	namespaces/pidns_init_sleep.c	/^#define STACK_SIZE /;"	d	file:
+STACK_SIZE	namespaces/userns_child_exec.c	/^#define STACK_SIZE /;"	d	file:
+STACK_SIZE	namespaces/userns_setns_test.c	/^#define STACK_SIZE /;"	d	file:
+STR_SIZE	fileio/t_readv.c	/^#define STR_SIZE /;"	d	file:
+STR_SIZE	files/file_perms.c	/^#define STR_SIZE /;"	d	file:
+STR_SIZE	lib/file_perms.c	/^#define STR_SIZE /;"	d	file:
+SV_SOCK_PATH	sockets/ud_ucase.h	/^#define SV_SOCK_PATH /;"	d
+SV_SOCK_PATH	sockets/us_xfr.h	/^#define SV_SOCK_PATH /;"	d
+SV_SOCK_PATH	sockets/us_xfr_v2.h	/^#define SV_SOCK_PATH /;"	d
+SYNC_SIG	procexec/fork_sig_sync.c	/^#define SYNC_SIG /;"	d	file:
+TARGETS	shlibs/demo_Bsymbolic/Makefile	/^TARGETS = prog libfoo1.so libfoo2.so libfoo3.so$/;"	m
+TESTSIG	signals/sig_speed_sigsuspend.c	/^#define TESTSIG /;"	d	file:
+TIMER_SIG	timers/ptmr_sigev_signal.c	/^#define TIMER_SIG /;"	d	file:
+TIME_BUF_SIZE	procexec/acct_v3_view.c	/^#define TIME_BUF_SIZE /;"	d	file:
+TIME_BUF_SIZE	procexec/acct_view.c	/^#define TIME_BUF_SIZE /;"	d	file:
+TLPI_HDR_H	lib/tlpi_hdr.h	/^#define TLPI_HDR_H /;"	d
+TRUE	lib/tlpi_hdr.h	/^typedef enum { FALSE, TRUE } Boolean;$/;"	e	enum:__anona08e7bf70103
+TS_ALIVE	threads/thread_multijoin.c	/^    TS_ALIVE,                   \/* Thread is alive *\/$/;"	e	enum:tstate	file:
+TS_BUF_SIZE	daemons/daemon_SIGHUP.c	/^#define TS_BUF_SIZE /;"	d	file:
+TS_JOINED	threads/thread_multijoin.c	/^    TS_JOINED                   \/* Thread terminated, and joined *\/$/;"	e	enum:tstate	file:
+TS_TERMINATED	threads/thread_multijoin.c	/^    TS_TERMINATED,              \/* Thread terminated, not yet joined *\/$/;"	e	enum:tstate	file:
+TTY_FUNCTIONS_H	lib/tty_functions.h	/^#define TTY_FUNCTIONS_H$/;"	d
+TTY_FUNCTIONS_H	tty/tty_functions.h	/^#define TTY_FUNCTIONS_H$/;"	d
+UGID_FUNCTIONS_H	lib/ugid_functions.h	/^#define UGID_FUNCTIONS_H$/;"	d
+UGID_FUNCTIONS_H	users_groups/ugid_functions.h	/^#define UGID_FUNCTIONS_H$/;"	d
+UMASK_SETTING	files/t_umask.c	/^#define UMASK_SETTING /;"	d	file:
+UNDERLINE	cgroups/view_v2_cgroups.go	/^const UNDERLINE = ESC + "[4m"$/;"	c	package:main
+UNIX_SOCKETS_H	lib/unix_sockets.h	/^#define UNIX_SOCKETS_H /;"	d
+UNIX_SOCKETS_H	sockets/unix_sockets.h	/^#define UNIX_SOCKETS_H /;"	d
+USERNS_COLOR	namespaces/namespaces_of.go	/^const USERNS_COLOR = YELLOW + BOLD$/;"	c	package:main
+USERNS_FUNCTIONS_H	lib/userns_functions.h	/^#define USERNS_FUNCTIONS_H$/;"	d
+USERNS_FUNCTIONS_H	namespaces/userns_functions.h	/^#define USERNS_FUNCTIONS_H$/;"	d
+VB_BASIC	inotify/inotify_dtree.c	/^#define VB_BASIC /;"	d	file:
+VB_NOISY	inotify/inotify_dtree.c	/^#define VB_NOISY /;"	d	file:
+VERSION	shlibs/mod1.c	/^#define VERSION /;"	d	file:
+VERSION	shlibs/mod2.c	/^#define VERSION /;"	d	file:
+VERSION	shlibs/mod3.c	/^#define VERSION /;"	d	file:
+WRITE_SEM	svshm/svshm_xfr.h	/^#define WRITE_SEM /;"	d
+WRITE_SIZE	vmem/madvise_dontneed.c	/^#define WRITE_SIZE /;"	d	file:
+X32_SYSCALL_BIT	seccomp/seccomp_arg64.c	/^#define X32_SYSCALL_BIT /;"	d	file:
+X32_SYSCALL_BIT	seccomp/seccomp_control_open.c	/^#define X32_SYSCALL_BIT /;"	d	file:
+X32_SYSCALL_BIT	seccomp/seccomp_deny_open.c	/^#define X32_SYSCALL_BIT /;"	d	file:
+X32_SYSCALL_BIT	seccomp/seccomp_logging.c	/^#define X32_SYSCALL_BIT /;"	d	file:
+X32_SYSCALL_BIT	seccomp/seccomp_multiarch.c	/^#define X32_SYSCALL_BIT /;"	d	file:
+X32_SYSCALL_BIT	seccomp/seccomp_perf.c	/^#define X32_SYSCALL_BIT /;"	d	file:
+X32_SYSCALL_BIT	seccomp/seccomp_trap_sigsys.c	/^#define X32_SYSCALL_BIT /;"	d	file:
+X32_SYSCALL_BIT	seccomp/seccomp_user_notification.c	/^#define X32_SYSCALL_BIT /;"	d	file:
+X86_64_CHECK_ARCH_AND_LOAD_SYSCALL_NR	seccomp/seccomp_user_notification.c	/^#define X86_64_CHECK_ARCH_AND_LOAD_SYSCALL_NR /;"	d	file:
+XATTR_SIZE	xattr/xattr_view.c	/^#define XATTR_SIZE /;"	d	file:
+X_RANGE	pty/pty_master_open_bsd.c	/^#define X_RANGE /;"	d	file:
+YELLOW	cgroups/view_v2_cgroups.go	/^const YELLOW = ESC + "[93m"$/;"	c	package:main
+YELLOW	namespaces/namespaces_of.go	/^const YELLOW = ESC + "[93m"$/;"	c	package:main
+Y_RANGE	pty/pty_master_open_bsd.c	/^#define Y_RANGE /;"	d	file:
+_BSD	files/t_stat.c	/^#define _BSD$/;"	d	file:
+_BSD_SOURCE	cap/check_password_caps.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	lib/inet_sockets.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	memalloc/free_and_sbrk.c	/^#define _BSD_SOURCE$/;"	d	file:
+_BSD_SOURCE	mmap/anon_mmap.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	namespaces/hostname.c	/^#define _BSD_SOURCE$/;"	d	file:
+_BSD_SOURCE	proc/mem_segments.c	/^#define _BSD_SOURCE$/;"	d	file:
+_BSD_SOURCE	procexec/acct_on.c	/^#define _BSD_SOURCE$/;"	d	file:
+_BSD_SOURCE	procexec/exit_handlers.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	procexec/footprint.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	procexec/t_vfork.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	procexec/vfork_fd_test.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	sockets/inet_sockets.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	sockets/is_seqnum_sv.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	sockets/t_gethostbyname.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	users_groups/check_password.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	vmem/madvise_dontneed.c	/^#define _BSD_SOURCE$/;"	d	file:
+_BSD_SOURCE	vmem/memlock.c	/^#define _BSD_SOURCE /;"	d	file:
+_BSD_SOURCE	vmem/t_mprotect.c	/^#define _BSD_SOURCE /;"	d	file:
+_GNU_SOURCE	cap/cap_launcher.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	cap/demo_file_caps.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	filebuff/direct_read.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	filelock/i_fcntl_locking.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	files/chiflag.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	inotify/dnotify.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	inotify/inotify_dtree.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	lib/print_wait_status.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	lib/signal_functions.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	lib/userns_functions.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	loginacct/dump_utmpx.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	loginacct/utmpx_login.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	mmap/t_remap_file_pages.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	namespaces/cred_launcher.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/demo_userns.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/demo_uts_namespaces.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/multi_pidns.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/ns_capable.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/ns_child_exec.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/ns_exec.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/ns_run.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/pidns_init_sleep.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/show_creds.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/simple_init.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/t_setns_userns.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/unshare.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/userns_child_exec.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/userns_functions.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	namespaces/userns_setns_test.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	pgsjc/disc_SIGHUP.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	pgsjc/job_mon.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	pgsjc/orphaned_pgrp_SIGHUP.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	proc/modify_env.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	proccred/idshow.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	procexec/demo_clone.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	procexec/print_wait_status.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	procexec/t_clone.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	procpri/demo_sched_fifo.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	procpri/t_sched_getaffinity.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	procpri/t_sched_setaffinity.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_arg64.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_control_open.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_deny_open.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_launch.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_logging.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_multiarch.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_perf.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_trap_sigsys.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	seccomp/seccomp_user_notification.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	signals/catch_rtsigs.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	signals/demo_SIGFPE.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	signals/ignore_pending_sig.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	signals/sig_receiver.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	signals/sigmask_longjmp.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	signals/signal_functions.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	signals/t_sigaltstack.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	signals/t_sigsuspend.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	signals/t_sigwaitinfo.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	sockets/list_host_addresses.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	sockets/scm_cred.h	/^#define _GNU_SOURCE /;"	d
+_GNU_SOURCE	sockets/scm_multi.h	/^#define _GNU_SOURCE /;"	d
+_GNU_SOURCE	sockets/scm_multi_recv.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	sockets/scm_multi_send.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	svmsg/svmsg_info.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	svmsg/svmsg_ls.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	svmsg/svmsg_receive.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	svsem/svsem_info.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	svshm/svshm_info.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	sysinfo/procfs_user_exe.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	sysinfo/t_uname.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	threads/strerror.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	threads/strerror_tls.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	threads/strerror_tsd.c	/^#define _GNU_SOURCE /;"	d	file:
+_GNU_SOURCE	timers/cpu_multithread_burner.c	/^#define _GNU_SOURCE$/;"	d	file:
+_GNU_SOURCE	vdso/gettimeofday.c	/^#define _GNU_SOURCE /;"	d	file:
+_LARGEFILE64_SOURCE	fileio/large_file.c	/^#define _LARGEFILE64_SOURCE$/;"	d	file:
+_POSIX_C_SOURCE	pmsg/mq_notify_sigwaitinfo.c	/^#define _POSIX_C_SOURCE /;"	d	file:
+_POSIX_C_SOURCE	psem/psem_timedwait.c	/^#define _POSIX_C_SOURCE /;"	d	file:
+_POSIX_C_SOURCE	signals/t_sigqueue.c	/^#define _POSIX_C_SOURCE /;"	d	file:
+_POSIX_C_SOURCE	timers/ptmr_null_evp.c	/^#define _POSIX_C_SOURCE /;"	d	file:
+_POSIX_C_SOURCE	timers/ptmr_sigev_signal.c	/^#define _POSIX_C_SOURCE /;"	d	file:
+_POSIX_C_SOURCE	timers/t_nanosleep.c	/^#define _POSIX_C_SOURCE /;"	d	file:
+_SVID_SOURCE	time/t_stime.c	/^#define _SVID_SOURCE /;"	d	file:
+_USE_IRS	sockets/t_gethostbyname.c	/^#define _USE_IRS$/;"	d	file:
+_XOPEN_SOURCE	cap/check_password_caps.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	dirs_links/file_type_stats.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	dirs_links/nftw_dir_tree.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	inotify/rand_dtree.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	lib/pty_master_open.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	pgsjc/catch_SIGHUP.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	pgsjc/t_setsid.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	pty/pty_master_open.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	signals/nonreentrant.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	time/strtime.c	/^#define _XOPEN_SOURCE$/;"	d	file:
+_XOPEN_SOURCE	time/t_stime.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	timers/t_clock_nanosleep.c	/^#define _XOPEN_SOURCE /;"	d	file:
+_XOPEN_SOURCE	users_groups/check_password.c	/^#define _XOPEN_SOURCE /;"	d	file:
+__anon40d5ca63010a	sockets/scm_rights_recv.c	/^    union {$/;"	u	function:main	file:
+__anon4330ae9d010a	sockets/scm_rights_send.c	/^    union {$/;"	u	function:main	file:
+__anon69c14277010a	lib/scm_functions.c	/^    union {$/;"	u	function:sendfd	file:
+__anon69c14277020a	lib/scm_functions.c	/^    union {$/;"	u	function:recvfd	file:
+__anon6ad110e20108	threads/thread_multijoin.c	/^static struct {                 \/* Info about each thread *\/$/;"	s	file:
+__anon7c85c2530108	procexec/demo_clone.c	/^typedef struct {        \/* For passing info to child startup function *\/$/;"	s	file:
+__anona08e7bf70103	lib/tlpi_hdr.h	/^typedef enum { FALSE, TRUE } Boolean;$/;"	g
+__anondd8a53b0010a	sockets/scm_cred_recv.c	/^    union {$/;"	u	function:main	file:
+__anondfe537ea010a	sockets/scm_cred_send.c	/^    union {$/;"	u	function:main	file:
+__anone221c99c010a	sockets/scm_functions.c	/^    union {$/;"	u	function:sendfd	file:
+__anone221c99c020a	sockets/scm_functions.c	/^    union {$/;"	u	function:recvfd	file:
+__buf	lib/semun.h	/^    struct seminfo *    __buf;$/;"	m	union:semun	typeref:struct:seminfo *
+__buf	svsem/semun.h	/^    struct seminfo *    __buf;$/;"	m	union:semun	typeref:struct:seminfo *
+abc	shlibs/demo_Bsymbolic/foo1.c	/^abc(void)$/;"	f	typeref:typename:void
+abc	shlibs/demo_Bsymbolic/foo2.c	/^abc(void)$/;"	f	typeref:typename:void
+abc	shlibs/version_scripts/sv_libabc.c	/^abc(void)$/;"	f	typeref:typename:void
+abortOnCacheProblem	inotify/inotify_dtree.c	/^static int abortOnCacheProblem;$/;"	v	typeref:typename:int	file:
+ac_btime	procexec/acct_v3_view.c	/^    u_int32_t   ac_btime;$/;"	m	struct:acct_v3	typeref:typename:u_int32_t	file:
+ac_comm	procexec/acct_v3_view.c	/^    char        ac_comm[ACCT_COMM];$/;"	m	struct:acct_v3	typeref:typename:char[]	file:
+ac_etime	procexec/acct_v3_view.c	/^    float       ac_etime;$/;"	m	struct:acct_v3	typeref:typename:float	file:
+ac_exitcode	procexec/acct_v3_view.c	/^    u_int32_t   ac_exitcode;$/;"	m	struct:acct_v3	typeref:typename:u_int32_t	file:
+ac_flag	procexec/acct_v3_view.c	/^    char        ac_flag;$/;"	m	struct:acct_v3	typeref:typename:char	file:
+ac_gid	procexec/acct_v3_view.c	/^    u_int32_t   ac_gid;$/;"	m	struct:acct_v3	typeref:typename:u_int32_t	file:
+ac_io	procexec/acct_v3_view.c	/^    comp_t      ac_io;$/;"	m	struct:acct_v3	typeref:typename:comp_t	file:
+ac_majflt	procexec/acct_v3_view.c	/^    comp_t      ac_majflt;$/;"	m	struct:acct_v3	typeref:typename:comp_t	file:
+ac_mem	procexec/acct_v3_view.c	/^    comp_t      ac_mem;$/;"	m	struct:acct_v3	typeref:typename:comp_t	file:
+ac_minflt	procexec/acct_v3_view.c	/^    comp_t      ac_minflt;$/;"	m	struct:acct_v3	typeref:typename:comp_t	file:
+ac_pid	procexec/acct_v3_view.c	/^    u_int32_t   ac_pid;$/;"	m	struct:acct_v3	typeref:typename:u_int32_t	file:
+ac_ppid	procexec/acct_v3_view.c	/^    u_int32_t   ac_ppid;$/;"	m	struct:acct_v3	typeref:typename:u_int32_t	file:
+ac_rw	procexec/acct_v3_view.c	/^    comp_t      ac_rw;$/;"	m	struct:acct_v3	typeref:typename:comp_t	file:
+ac_stime	procexec/acct_v3_view.c	/^    comp_t      ac_stime;$/;"	m	struct:acct_v3	typeref:typename:comp_t	file:
+ac_swaps	procexec/acct_v3_view.c	/^    comp_t      ac_swaps;$/;"	m	struct:acct_v3	typeref:typename:comp_t	file:
+ac_tty	procexec/acct_v3_view.c	/^    u_int16_t   ac_tty;$/;"	m	struct:acct_v3	typeref:typename:u_int16_t	file:
+ac_uid	procexec/acct_v3_view.c	/^    u_int32_t   ac_uid;$/;"	m	struct:acct_v3	typeref:typename:u_int32_t	file:
+ac_utime	procexec/acct_v3_view.c	/^    comp_t      ac_utime;$/;"	m	struct:acct_v3	typeref:typename:comp_t	file:
+ac_version	procexec/acct_v3_view.c	/^    char        ac_version;$/;"	m	struct:acct_v3	typeref:typename:char	file:
+acct_v3	procexec/acct_v3_view.c	/^struct acct_v3$/;"	s	file:
+addNamespace	namespaces/namespaces_of.go	/^func (nsi *NamespaceInfo) addNamespace(namespaceFD int, pid int,$/;"	f	struct:main.NamespaceInfo	typeref:typename:NamespaceID
+addNamespaceToList	namespaces/namespaces_of.go	/^func (nsi *NamespaceInfo) addNamespaceToList(ns NamespaceID, namespaceFD int,$/;"	f	struct:main.NamespaceInfo
+addNamespacesForAllProcesses	namespaces/namespaces_of.go	/^func (nsi *NamespaceInfo) addNamespacesForAllProcesses(namespaces []string,$/;"	f	struct:main.NamespaceInfo
+addProcessNamespace	namespaces/namespaces_of.go	/^func (nsi *NamespaceInfo) addProcessNamespace(pid string, nsFile string,$/;"	f	struct:main.NamespaceInfo
+addUidGidPMaps	namespaces/namespaces_of.go	/^func (nsi *NamespaceInfo) addUidGidPMaps() {$/;"	f	struct:main.NamespaceInfo
+addWatchToCache	inotify/inotify_dtree.c	/^addWatchToCache(int wd, const char *pathname)$/;"	f	typeref:typename:int	file:
+alarmHandler	inotify/inotify_dtree.c	/^alarmHandler(int sig)$/;"	f	typeref:typename:void	file:
+align	lib/scm_functions.c	/^        struct cmsghdr align;$/;"	m	union:recvfd::__anon69c14277020a	typeref:struct:cmsghdr	file:
+align	lib/scm_functions.c	/^        struct cmsghdr align;$/;"	m	union:sendfd::__anon69c14277010a	typeref:struct:cmsghdr	file:
+align	sockets/scm_cred_recv.c	/^        struct cmsghdr align;$/;"	m	union:main::__anondd8a53b0010a	typeref:struct:cmsghdr	file:
+align	sockets/scm_cred_send.c	/^        struct cmsghdr align;$/;"	m	union:main::__anondfe537ea010a	typeref:struct:cmsghdr	file:
+align	sockets/scm_functions.c	/^        struct cmsghdr align;$/;"	m	union:recvfd::__anone221c99c020a	typeref:struct:cmsghdr	file:
+align	sockets/scm_functions.c	/^        struct cmsghdr align;$/;"	m	union:sendfd::__anone221c99c010a	typeref:struct:cmsghdr	file:
+align	sockets/scm_rights_recv.c	/^        struct cmsghdr align;$/;"	m	union:main::__anon40d5ca63010a	typeref:struct:cmsghdr	file:
+align	sockets/scm_rights_send.c	/^        struct cmsghdr align;$/;"	m	union:main::__anon4330ae9d010a	typeref:struct:cmsghdr	file:
+all	Makefile	/^all: 	$/;"	t
+all	acl/Makefile	/^all : ${EXE}$/;"	t
+all	altio/Makefile	/^all : ${EXE}$/;"	t
+all	cap/Makefile	/^all : ${EXE}$/;"	t
+all	cgroups/Makefile	/^all : ${EXE}$/;"	t
+all	daemons/Makefile	/^all : ${EXE}$/;"	t
+all	dirs_links/Makefile	/^all : ${EXE}$/;"	t
+all	filebuff/Makefile	/^all : ${EXE}$/;"	t
+all	fileio/Makefile	/^all : ${EXE}$/;"	t
+all	filelock/Makefile	/^all : ${EXE}$/;"	t
+all	files/Makefile	/^all : ${EXE}$/;"	t
+all	filesys/Makefile	/^all : ${EXE}$/;"	t
+all	getopt/Makefile	/^all : ${EXE}$/;"	t
+all	inotify/Makefile	/^all : ${EXE}$/;"	t
+all	lib/Makefile	/^all : ${TLPI_LIB}$/;"	t
+all	loginacct/Makefile	/^all : ${EXE}$/;"	t
+all	memalloc/Makefile	/^all : ${EXE}$/;"	t
+all	mmap/Makefile	/^all : ${EXE}$/;"	t
+all	myprog/Makefile	/^all : myprog.c $/;"	t
+all	namespaces/Makefile	/^all : ${EXE}$/;"	t
+all	pgsjc/Makefile	/^all : ${EXE}$/;"	t
+all	pipes/Makefile	/^all : ${EXE}$/;"	t
+all	pmsg/Makefile	/^all : ${EXE}$/;"	t
+all	proc/Makefile	/^all : ${EXE}$/;"	t
+all	proccred/Makefile	/^all : ${EXE}$/;"	t
+all	procexec/Makefile	/^all : ${EXE}$/;"	t
+all	procpri/Makefile	/^all : ${EXE}$/;"	t
+all	procres/Makefile	/^all : ${EXE}$/;"	t
+all	progconc/Makefile	/^all : ${EXE}$/;"	t
+all	psem/Makefile	/^all : ${EXE}$/;"	t
+all	pshm/Makefile	/^all : ${EXE}$/;"	t
+all	pty/Makefile	/^all : ${EXE}$/;"	t
+all	seccomp/Makefile	/^all : ${EXE}$/;"	t
+all	shlibs/Makefile	/^all : ${EXE}$/;"	t
+all	shlibs/demo_Bsymbolic/Makefile	/^all: ${TARGETS}$/;"	t
+all	signals/Makefile	/^all : ${EXE}$/;"	t
+all	sockets/Makefile	/^all : ${EXE}$/;"	t
+all	svipc/Makefile	/^all : ${EXE}$/;"	t
+all	svmsg/Makefile	/^all : ${EXE}$/;"	t
+all	svsem/Makefile	/^all : ${EXE}$/;"	t
+all	svshm/Makefile	/^all : ${EXE}$/;"	t
+all	sysinfo/Makefile	/^all : ${EXE}$/;"	t
+all	syslim/Makefile	/^all : ${EXE}$/;"	t
+all	threads/Makefile	/^all : ${EXE}$/;"	t
+all	time/Makefile	/^all : ${EXE}$/;"	t
+all	timers/Makefile	/^all : ${EXE}$/;"	t
+all	tty/Makefile	/^all : ${EXE}$/;"	t
+all	users_groups/Makefile	/^all : ${EXE}$/;"	t
+all	vdso/Makefile	/^all : ${EXE}$/;"	t
+all	vmem/Makefile	/^all : ${EXE}$/;"	t
+all	xattr/Makefile	/^all : ${EXE}$/;"	t
+allDone	signals/catch_rtsigs.c	/^static volatile int allDone = 0;$/;"	v	typeref:typename:volatile int	file:
+allNamespaceSymlinkNames	namespaces/namespaces_of.go	/^var allNamespaceSymlinkNames = []string{"cgroup", "ipc", "mnt", "net", "pid",$/;"	v	package:main
+allftw	inotify/Makefile	/^allftw : ${FTW_EXE}$/;"	t
+allgen	Makefile	/^allgen: $/;"	t
+allgen	acl/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	altio/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	cap/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	cgroups/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	daemons/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	dirs_links/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	filebuff/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	fileio/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	filelock/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	files/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	filesys/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	getopt/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	inotify/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	loginacct/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	memalloc/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	mmap/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	namespaces/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	pgsjc/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	pipes/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	pmsg/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	proc/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	proccred/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	procexec/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	procpri/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	procres/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	progconc/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	psem/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	pshm/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	pty/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	seccomp/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	shlibs/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	signals/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	sockets/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	svipc/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	svmsg/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	svsem/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	svshm/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	sysinfo/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	syslim/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	threads/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	time/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	timers/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	tty/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	users_groups/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	vdso/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	vmem/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+allgen	xattr/Makefile	/^allgen : ${GEN_EXE}$/;"	t
+argv	namespaces/userns_child_exec.c	/^    char **argv;$/;"	m	struct:cmd_options	typeref:typename:char **	file:
+array	lib/semun.h	/^    unsigned short *    array;$/;"	m	union:semun	typeref:typename:unsigned short *
+array	svsem/semun.h	/^    unsigned short *    array;$/;"	m	union:semun	typeref:typename:unsigned short *
+atexitFunc1	procexec/exit_handlers.c	/^atexitFunc1(void)$/;"	f	typeref:typename:void	file:
+atexitFunc2	procexec/exit_handlers.c	/^atexitFunc2(void)$/;"	f	typeref:typename:void	file:
+avail	threads/prod_condvar.c	/^static int avail = 0;$/;"	v	typeref:typename:int	file:
+avail	threads/prod_no_condvar.c	/^static int avail = 0;$/;"	v	typeref:typename:int	file:
+barrier	threads/pthread_barrier_demo.c	/^static pthread_barrier_t barrier;$/;"	v	typeref:typename:pthread_barrier_t	file:
+becomeDaemon	daemons/become_daemon.c	/^becomeDaemon(int flags)$/;"	f	typeref:typename:int
+becomeDaemon	lib/become_daemon.c	/^becomeDaemon(int flags)$/;"	f	typeref:typename:int
+bsRetryOnEintr	lib/binary_sems.c	/^Boolean bsRetryOnEintr = TRUE;$/;"	v	typeref:typename:Boolean
+bsRetryOnEintr	svsem/binary_sems.c	/^Boolean bsRetryOnEintr = TRUE;$/;"	v	typeref:typename:Boolean
+bsUseSemUndo	lib/binary_sems.c	/^Boolean bsUseSemUndo = FALSE;$/;"	v	typeref:typename:Boolean
+bsUseSemUndo	svsem/binary_sems.c	/^Boolean bsUseSemUndo = FALSE;$/;"	v	typeref:typename:Boolean
+buf	lib/read_line_buf.h	/^    char    buf[RL_MAX_BUF];    \/* Current buffer from file *\/$/;"	m	struct:ReadLineBuf	typeref:typename:char[]
+buf	lib/scm_functions.c	/^        char   buf[CMSG_SPACE(sizeof(int))];$/;"	m	union:recvfd::__anon69c14277020a	typeref:typename:char[]	file:
+buf	lib/scm_functions.c	/^        char   buf[CMSG_SPACE(sizeof(int))];$/;"	m	union:sendfd::__anon69c14277010a	typeref:typename:char[]	file:
+buf	lib/semun.h	/^    struct semid_ds *   buf;$/;"	m	union:semun	typeref:struct:semid_ds *
+buf	sockets/read_line_buf.h	/^    char    buf[RL_MAX_BUF];    \/* Current buffer from file *\/$/;"	m	struct:ReadLineBuf	typeref:typename:char[]
+buf	sockets/scm_cred_recv.c	/^        char   buf[CMSG_SPACE(sizeof(struct ucred))];$/;"	m	union:main::__anondd8a53b0010a	typeref:typename:char[]	file:
+buf	sockets/scm_cred_send.c	/^        char   buf[CMSG_SPACE(sizeof(struct ucred))];$/;"	m	union:main::__anondfe537ea010a	typeref:typename:char[]	file:
+buf	sockets/scm_functions.c	/^        char   buf[CMSG_SPACE(sizeof(int))];$/;"	m	union:recvfd::__anone221c99c020a	typeref:typename:char[]	file:
+buf	sockets/scm_functions.c	/^        char   buf[CMSG_SPACE(sizeof(int))];$/;"	m	union:sendfd::__anone221c99c010a	typeref:typename:char[]	file:
+buf	sockets/scm_rights_recv.c	/^        char   buf[CMSG_SPACE(sizeof(int))];$/;"	m	union:main::__anon40d5ca63010a	typeref:typename:char[]	file:
+buf	sockets/scm_rights_send.c	/^        char   buf[CMSG_SPACE(sizeof(int))];$/;"	m	union:main::__anon4330ae9d010a	typeref:typename:char[]	file:
+buf	svsem/semun.h	/^    struct semid_ds *   buf;$/;"	m	union:semun	typeref:struct:semid_ds *
+buf	svshm/svshm_xfr.h	/^    char buf[BUF_SIZE];         \/* Data being transferred *\/$/;"	m	struct:shmseg	typeref:typename:char[]
+buf	threads/strerror.c	/^static char buf[MAX_ERROR_LEN];     \/* Statically allocated return buffer *\/$/;"	v	typeref:typename:char[]	file:
+buf	threads/strerror_tls.c	/^static __thread char buf[MAX_ERROR_LEN];$/;"	v	typeref:typename:__thread char[]	file:
+burnCPU	timers/cpu_multi_burner.c	/^burnCPU(float period)$/;"	f	typeref:typename:void	file:
+cacheSize	inotify/inotify_dtree.c	/^static int cacheSize = 0;       \/* Current size of the array *\/$/;"	v	typeref:typename:int	file:
+cal_time	time/Makefile	/^cal_time: cal_time.o$/;"	t
+called	threads/one_time_init.c	/^    int called;$/;"	m	struct:once_struct	typeref:typename:int	file:
+canJump	signals/sigmask_longjmp.c	/^static volatile sig_atomic_t canJump = 0;$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+capIsEffective	cap/cap_text.c	/^capIsEffective(cap_t capSets, cap_value_t cap)$/;"	f	typeref:typename:int	file:
+capIsInheritable	cap/cap_text.c	/^capIsInheritable(cap_t capSets, cap_value_t cap)$/;"	f	typeref:typename:int	file:
+capIsPermitted	cap/cap_text.c	/^capIsPermitted(cap_t capSets, cap_value_t cap)$/;"	f	typeref:typename:int	file:
+capIsSet	cap/cap_text.c	/^capIsSet(cap_t capSets, cap_value_t cap, cap_flag_t set)$/;"	f	typeref:typename:int	file:
+cgroupAbbrev	cgroups/view_v2_cgroups.go	/^var cgroupAbbrev = map[string]string{$/;"	v	package:main
+cgroupColor	cgroups/view_v2_cgroups.go	/^var cgroupColor = map[string]string{$/;"	v	package:main
+checkCache	inotify/inotify_dtree.c	/^static int checkCache;$/;"	v	typeref:typename:int	file:
+checkCacheConsistency	inotify/inotify_dtree.c	/^checkCacheConsistency(void)$/;"	f	typeref:typename:void	file:
+checkNotificationIdIsValid	seccomp/seccomp_user_notification.c	/^checkNotificationIdIsValid(int notifyFd, __u64 id, char *tag)$/;"	f	typeref:typename:void	file:
+check_password	users_groups/Makefile	/^check_password : check_password.o$/;"	t
+childFunc	namespaces/demo_userns.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childFunc	namespaces/demo_uts_namespaces.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childFunc	namespaces/multi_pidns.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childFunc	namespaces/ns_child_exec.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childFunc	namespaces/pidns_init_sleep.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childFunc	namespaces/userns_child_exec.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childFunc	namespaces/userns_setns_test.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childFunc	procexec/demo_clone.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childFunc	procexec/t_clone.c	/^childFunc(void *arg)$/;"	f	typeref:typename:int	file:
+childMon	altio/select_mq.c	/^childMon(int msqid, int fd)$/;"	f	typeref:typename:void	file:
+child_handler	namespaces/simple_init.c	/^child_handler(int sig)$/;"	f	typeref:typename:void	file:
+children	namespaces/namespaces_of.go	/^	children   []NamespaceID \/\/ Child+owned namespaces (user\/PID NSs only)$/;"	m	struct:main.NamespaceAttribs	typeref:typename:[]NamespaceID
+children	namespaces/pid_namespaces.go	/^	children []NamespaceID \/\/ Child namespaces$/;"	m	struct:main.NamespaceAttribs	typeref:typename:[]NamespaceID
+children	namespaces/userns_overview.go	/^	children []NamespaceID \/\/ Child namespaces$/;"	m	struct:main.NamespaceAttribs	typeref:typename:[]NamespaceID
+clean	Makefile	/^clean: $/;"	t
+clean	acl/Makefile	/^clean : $/;"	t
+clean	altio/Makefile	/^clean : $/;"	t
+clean	cap/Makefile	/^clean : $/;"	t
+clean	cgroups/Makefile	/^clean : $/;"	t
+clean	daemons/Makefile	/^clean : $/;"	t
+clean	dirs_links/Makefile	/^clean : $/;"	t
+clean	filebuff/Makefile	/^clean : $/;"	t
+clean	fileio/Makefile	/^clean : $/;"	t
+clean	filelock/Makefile	/^clean : $/;"	t
+clean	files/Makefile	/^clean : $/;"	t
+clean	filesys/Makefile	/^clean : $/;"	t
+clean	getopt/Makefile	/^clean : $/;"	t
+clean	inotify/Makefile	/^clean : $/;"	t
+clean	lib/Makefile	/^clean :$/;"	t
+clean	loginacct/Makefile	/^clean : $/;"	t
+clean	memalloc/Makefile	/^clean : $/;"	t
+clean	mmap/Makefile	/^clean : $/;"	t
+clean	myprog/Makefile	/^clean : $/;"	t
+clean	namespaces/Makefile	/^clean : $/;"	t
+clean	pgsjc/Makefile	/^clean : $/;"	t
+clean	pipes/Makefile	/^clean : $/;"	t
+clean	pmsg/Makefile	/^clean : $/;"	t
+clean	proc/Makefile	/^clean : $/;"	t
+clean	proccred/Makefile	/^clean : $/;"	t
+clean	procexec/Makefile	/^clean : $/;"	t
+clean	procpri/Makefile	/^clean : $/;"	t
+clean	procres/Makefile	/^clean : $/;"	t
+clean	progconc/Makefile	/^clean : $/;"	t
+clean	psem/Makefile	/^clean : $/;"	t
+clean	pshm/Makefile	/^clean : $/;"	t
+clean	pty/Makefile	/^clean : $/;"	t
+clean	seccomp/Makefile	/^clean : $/;"	t
+clean	shlibs/Makefile	/^clean :$/;"	t
+clean	shlibs/demo_Bsymbolic/Makefile	/^clean:$/;"	t
+clean	signals/Makefile	/^clean : $/;"	t
+clean	sockets/Makefile	/^clean : $/;"	t
+clean	svipc/Makefile	/^clean : $/;"	t
+clean	svmsg/Makefile	/^clean : $/;"	t
+clean	svsem/Makefile	/^clean : $/;"	t
+clean	svshm/Makefile	/^clean : $/;"	t
+clean	sysinfo/Makefile	/^clean : $/;"	t
+clean	syslim/Makefile	/^clean : $/;"	t
+clean	threads/Makefile	/^clean : $/;"	t
+clean	time/Makefile	/^clean : $/;"	t
+clean	timers/Makefile	/^clean : $/;"	t
+clean	tty/Makefile	/^clean : $/;"	t
+clean	users_groups/Makefile	/^clean : $/;"	t
+clean	vdso/Makefile	/^clean : $/;"	t
+clean	vmem/Makefile	/^clean : $/;"	t
+clean	xattr/Makefile	/^clean : $/;"	t
+cleanupHandler	threads/thread_cleanup.c	/^cleanupHandler(void *arg)$/;"	f	typeref:typename:void	file:
+clearEventFlag	lib/event_flags.c	/^clearEventFlag(int semId, int semNum)$/;"	f	typeref:typename:int
+clearEventFlag	svsem/event_flags.c	/^clearEventFlag(int semId, int semNum)$/;"	f	typeref:typename:int
+clientFifo	pipes/fifo_seqnum_client.c	/^static char clientFifo[CLIENT_FIFO_NAME_LEN];$/;"	v	typeref:typename:char[]	file:
+clientId	svmsg/svmsg_file.h	/^    int  clientId;                      \/* ID of client's message queue *\/$/;"	m	struct:requestMsg	typeref:typename:int
+clientId	svmsg/svmsg_file_client.c	/^static int clientId;$/;"	v	typeref:typename:int	file:
+closeSocketPair	seccomp/seccomp_user_notification.c	/^closeSocketPair(int sockPair[2])$/;"	f	typeref:typename:void	file:
+cmdLineErr	lib/error_functions.c	/^cmdLineErr(const char *format, ...)$/;"	f	typeref:typename:void
+cmdLineOpts	seccomp/seccomp_user_notification.c	/^struct cmdLineOpts {$/;"	s	file:
+cmdNum	pgsjc/job_mon.c	/^static int cmdNum;      \/* Our position in pipeline *\/$/;"	v	typeref:typename:int	file:
+cmd_options	namespaces/userns_child_exec.c	/^struct cmd_options {$/;"	s	file:
+cnt	svshm/svshm_xfr.h	/^    int cnt;                    \/* Number of bytes used in 'buf' *\/$/;"	m	struct:shmseg	typeref:typename:int
+colorEachLine	cgroups/view_v2_cgroups.go	/^func colorEachLine(buf string, color string) string {$/;"	f	package:main	typeref:typename:string
+colorEachLine	namespaces/namespaces_of.go	/^func colorEachLine(buf string, color string) string {$/;"	f	package:main	typeref:typename:string
+comptToLL	procexec/acct_v3_view.c	/^comptToLL(comp_t ct)$/;"	f	typeref:typename:long long	file:
+comptToLL	procexec/acct_view.c	/^comptToLL(comp_t ct)$/;"	f	typeref:typename:long long	file:
+cond	threads/prod_condvar.c	/^static pthread_cond_t cond = PTHREAD_COND_INITIALIZER;$/;"	v	typeref:typename:pthread_cond_t	file:
+cond	threads/thread_cleanup.c	/^static pthread_cond_t cond = PTHREAD_COND_INITIALIZER;$/;"	v	typeref:typename:pthread_cond_t	file:
+cond	timers/ptmr_sigev_thread.c	/^static pthread_cond_t cond = PTHREAD_COND_INITIALIZER;$/;"	v	typeref:typename:pthread_cond_t	file:
+copyRootDirPaths	inotify/inotify_dtree.c	/^copyRootDirPaths(char *argv[])$/;"	f	typeref:typename:void	file:
+countFile	dirs_links/file_type_stats.c	/^countFile(const char *path, const struct stat *sb, int flag, struct FTW *ftwb)$/;"	f	typeref:typename:int	file:
+createKey	threads/strerror_tsd.c	/^createKey(void)$/;"	f	typeref:typename:void	file:
+createPidFile	filelock/create_pid_file.c	/^createPidFile(const char *progName, const char *pidFile, int flags)$/;"	f	typeref:typename:int
+createPidFile	lib/create_pid_file.c	/^createPidFile(const char *progName, const char *pidFile, int flags)$/;"	f	typeref:typename:int
+createStopFileAndAbort	inotify/inotify_dtree.c	/^createStopFileAndAbort(void)$/;"	f	typeref:typename:void	file:
+create_root_mappings	namespaces/userns_child_exec.c	/^    int    create_root_mappings;$/;"	m	struct:cmd_options	typeref:typename:int	file:
+creatorUID	namespaces/namespaces_of.go	/^	creatorUID int           \/\/ UID of creator (user NSs only)$/;"	m	struct:main.NamespaceAttribs	typeref:typename:int
+cred_launcher	namespaces/Makefile	/^cred_launcher: cred_launcher.o$/;"	t
+currTime	lib/curr_time.c	/^currTime(const char *format)$/;"	f	typeref:typename:char *
+currTime	time/curr_time.c	/^currTime(const char *format)$/;"	f	typeref:typename:char *
+data	svmsg/svmsg_file.h	/^    char data[RESP_MSG_SIZE];           \/* File content \/ response message *\/$/;"	m	struct:responseMsg	typeref:typename:char[]
+dcnt	inotify/rand_dtree.c	/^static int dcnt;$/;"	v	typeref:typename:int	file:
+delaySecs	seccomp/seccomp_user_notification.c	/^    int  delaySecs;     \/* Delay time for responding to notifications *\/$/;"	m	struct:cmdLineOpts	typeref:typename:int	file:
+demo_userns	namespaces/Makefile	/^demo_userns: demo_userns.o$/;"	t
+deny_setgroups	namespaces/userns_child_exec.c	/^    int    deny_setgroups;$/;"	m	struct:cmd_options	typeref:typename:int	file:
+destructor	threads/strerror_tsd.c	/^destructor(void *buf)$/;"	f	typeref:typename:void	file:
+device	namespaces/namespaces_of.go	/^	device uint64 \/\/ dev_t$/;"	m	struct:main.NamespaceID	typeref:typename:uint64
+device	namespaces/pid_namespaces.go	/^	device    uint64 \/\/ dev_t$/;"	m	struct:main.NamespaceID	typeref:typename:uint64
+device	namespaces/userns_overview.go	/^	device    uint64 \/\/ dev_t$/;"	m	struct:main.NamespaceID	typeref:typename:uint64
+dirCnt	inotify/inotify_dtree.c	/^static int dirCnt;      \/* Count of directories added to watch list *\/$/;"	v	typeref:typename:int	file:
+dirList	inotify/rand_dtree.c	/^static char **dirList = NULL;$/;"	v	typeref:typename:char **	file:
+dirTree	dirs_links/nftw_dir_tree.c	/^dirTree(const char *pathname, const struct stat *sbuf, int type,$/;"	f	typeref:typename:int	file:
+displayCgroup	cgroups/view_v2_cgroups.go	/^func displayCgroup(path string) (err error) {$/;"	f	package:main	typeref:typename:(err error)
+displayCgroupOwnership	cgroups/view_v2_cgroups.go	/^func displayCgroupOwnership(path string) error {$/;"	f	package:main	typeref:typename:error
+displayCmdFmt	filelock/i_fcntl_locking.c	/^displayCmdFmt(int argc, char *argv[], const int fdList[])$/;"	f	typeref:typename:void	file:
+displayControllers	cgroups/view_v2_cgroups.go	/^func displayControllers(path string) error {$/;"	f	package:main	typeref:typename:error
+displayInotifyEvent	inotify/demo_inotify.c	/^displayInotifyEvent(struct inotify_event *i)$/;"	f	typeref:typename:void	file:
+displayInotifyEvent	inotify/inotify_dtree.c	/^displayInotifyEvent(struct inotify_event *ev)$/;"	f	typeref:typename:void	file:
+displayMemberPIDs	namespaces/namespaces_of.go	/^func displayMemberPIDs(indent string, pids []int, opts CmdLineOptions) {$/;"	f	package:main
+displayMembers	cgroups/view_v2_cgroups.go	/^func displayMembers(path string, cgroupType string, indent string) error {$/;"	f	package:main	typeref:typename:error
+displayMincore	vmem/memlock.c	/^displayMincore(char *addr, size_t length)$/;"	f	typeref:typename:void	file:
+displayNamespace	namespaces/namespaces_of.go	/^func (nsi *NamespaceInfo) displayNamespace(ns NamespaceID, level int,$/;"	f	struct:main.NamespaceInfo
+displayNamespaceHierarchies	namespaces/namespaces_of.go	/^func (nsi *NamespaceInfo) displayNamespaceHierarchies(opts CmdLineOptions) {$/;"	f	struct:main.NamespaceInfo
+displayNamespaceTree	namespaces/namespaces_of.go	/^func (nsi *NamespaceInfo) displayNamespaceTree(ns NamespaceID, level int,$/;"	f	struct:main.NamespaceInfo
+displayPIDsAsList	namespaces/namespaces_of.go	/^func displayPIDsAsList(indent string, pids []int, opts CmdLineOptions) {$/;"	f	package:main
+displayPIDsOnePerLine	namespaces/namespaces_of.go	/^func displayPIDsOnePerLine(indent string, pids []int, opts CmdLineOptions) {$/;"	f	package:main
+displayProcessTimes	time/process_time.c	/^displayProcessTimes(const char *msg)$/;"	f	typeref:typename:void	file:
+displayProcesses	cgroups/view_v2_cgroups.go	/^func displayProcesses(path string, width int, indent string) error {$/;"	f	package:main	typeref:typename:error
+displayStatInfo	files/t_stat.c	/^displayStatInfo(const struct stat *sb)$/;"	f	typeref:typename:void	file:
+displayThreads	cgroups/view_v2_cgroups.go	/^func displayThreads(path string, width int, indent string) error {$/;"	f	package:main	typeref:typename:error
+displayTimes	timers/real_timer.c	/^displayTimes(const char *msg, Boolean includeTimer)$/;"	f	typeref:typename:void	file:
+display_creds_and_caps	lib/userns_functions.c	/^display_creds_and_caps(char *str)$/;"	f	typeref:typename:void
+display_creds_and_caps	namespaces/userns_functions.c	/^display_creds_and_caps(char *str)$/;"	f	typeref:typename:void
+display_process_capabilities	namespaces/ns_capable.c	/^display_process_capabilities(pid_t pid)$/;"	f	typeref:typename:void	file:
+display_symlink	namespaces/userns_setns_test.c	/^display_symlink(char *pname, char *link)$/;"	f	typeref:typename:void	file:
+dlSize	inotify/rand_dtree.c	/^static int dlSize = 0;$/;"	v	typeref:typename:int	file:
+doCalc	proc/mem_segments.c	/^doCalc(int val)                 \/* Allocated in frame for doCalc() *\/$/;"	f	typeref:typename:void	file:
+doJump	proc/bad_longjmp.c	/^doJump(void)$/;"	f	typeref:typename:void	file:
+doJump	proc/setjmp_vars.c	/^doJump(int nvar, int rvar, int vvar)$/;"	f	typeref:typename:void	file:
+drainQueue	pmsg/mq_notify_via_thread.c	/^drainQueue(mqd_t mqd)$/;"	f	typeref:typename:void	file:
+dropAllCaps	cap/check_password_caps.c	/^dropAllCaps(void)$/;"	f	typeref:typename:int	file:
+dumpCache	inotify/inotify_dtree.c	/^static int dumpCache;$/;"	v	typeref:typename:int	file:
+dumpCacheToLog	inotify/inotify_dtree.c	/^dumpCacheToLog(void)$/;"	f	typeref:typename:void	file:
+dumpFilter	seccomp/dump_seccomp_filter.c	/^dumpFilter(char *pathname, struct sock_filter *filterProg, int instrCnt)$/;"	f	typeref:typename:void	file:
+dynload	shlibs/Makefile	/^dynload : dynload.o$/;"	t
+ename.c.inc	lib/Makefile	/^ename.c.inc :$/;"	t
+env	proc/bad_longjmp.c	/^static jmp_buf env;     \/* Global buffer for saving environment *\/$/;"	v	typeref:typename:jmp_buf	file:
+env	proc/longjmp.c	/^static jmp_buf env;$/;"	v	typeref:typename:jmp_buf	file:
+env	proc/setjmp_vars.c	/^static jmp_buf env;$/;"	v	typeref:typename:jmp_buf	file:
+env	signals/sigmask_longjmp.c	/^static jmp_buf env;$/;"	v	typeref:typename:jmp_buf	file:
+epfd	altio/multithread_epoll_wait.c	/^static int epfd;$/;"	v	typeref:typename:int	file:
+errExit	altio/epoll_flags_fork.c	/^#define errExit(/;"	d	file:
+errExit	cap/demo_file_caps.c	/^#define errExit(/;"	d	file:
+errExit	inotify/inotify_dtree.c	/^#define errExit(/;"	d	file:
+errExit	lib/error_functions.c	/^errExit(const char *format, ...)$/;"	f	typeref:typename:void
+errExit	namespaces/demo_userns.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/demo_uts_namespaces.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/multi_pidns.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/ns_capable.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/ns_child_exec.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/ns_exec.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/ns_run.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/pidns_init_sleep.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/show_creds.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/simple_init.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/t_setns_userns.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/unshare.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/userns_child_exec.c	/^#define errExit(/;"	d	file:
+errExit	namespaces/userns_setns_test.c	/^#define errExit(/;"	d	file:
+errExit	seccomp/dump_seccomp_filter.c	/^#define errExit(/;"	d	file:
+errExit	seccomp/seccomp_launch.c	/^#define errExit(/;"	d	file:
+errExit	seccomp/seccomp_multiarch.c	/^#define errExit(/;"	d	file:
+errExit	seccomp/seccomp_perf.c	/^#define errExit(/;"	d	file:
+errExit	seccomp/seccomp_user_notification.c	/^#define errExit(/;"	d	file:
+errExitEN	lib/error_functions.c	/^errExitEN(int errnum, const char *format, ...)$/;"	f	typeref:typename:void
+errMsg	lib/error_functions.c	/^errMsg(const char *format, ...)$/;"	f	typeref:typename:void
+err_exit	lib/error_functions.c	/^err_exit(const char *format, ...)$/;"	f	typeref:typename:void
+error_functions.o	lib/Makefile	/^error_functions.o : ename.c.inc$/;"	t
+euid_of_process	namespaces/ns_capable.c	/^euid_of_process(pid_t pid)$/;"	f	typeref:typename:uid_t	file:
+execShScript	procexec/execlp.c	/^execShScript(int argc, char *argv[], char *envp[])$/;"	f	typeref:typename:void	file:
+execlp	procexec/execlp.c	/^execlp(const char *filename, const char *arg, ...)$/;"	f	typeref:typename:int
+executeCommand	inotify/inotify_dtree.c	/^executeCommand(int *inotifyFd)$/;"	f	typeref:typename:void	file:
+exitStatus	procexec/demo_clone.c	/^    int    exitStatus;$/;"	m	struct:__anon7c85c2530108	typeref:typename:int	file:
+expand_words	namespaces/simple_init.c	/^expand_words(char *cmd)$/;"	f	typeref:typename:char **	file:
+expireCnt	timers/ptmr_sigev_thread.c	/^static int expireCnt = 0;           \/* Number of expirations of all timers *\/$/;"	v	typeref:typename:int	file:
+f1	proc/longjmp.c	/^f1(int argc)$/;"	f	typeref:typename:void	file:
+f2	proc/longjmp.c	/^f2(void)$/;"	f	typeref:typename:void	file:
+fatal	lib/error_functions.c	/^fatal(const char *format, ...)$/;"	f	typeref:typename:void
+fatal	namespaces/ns_capable.c	/^#define fatal(/;"	d	file:
+fd	lib/read_line_buf.h	/^    int     fd;                 \/* File descriptor from which to read *\/$/;"	m	struct:ReadLineBuf	typeref:typename:int
+fd	procexec/demo_clone.c	/^    int    fd;$/;"	m	struct:__anon7c85c2530108	typeref:typename:int	file:
+fd	sockets/read_line_buf.h	/^    int     fd;                 \/* File descriptor from which to read *\/$/;"	m	struct:ReadLineBuf	typeref:typename:int
+fetchFilter	seccomp/dump_seccomp_filter.c	/^fetchFilter(pid_t pid, int filterIndex, int *instrCnt)$/;"	f	typeref:struct:sock_filter *	file:
+fifo_seqnum_client.o	pipes/Makefile	/^fifo_seqnum_client.o fifo_seqnum_server.o : fifo_seqnum.h$/;"	t
+fifo_seqnum_server.o	pipes/Makefile	/^fifo_seqnum_client.o fifo_seqnum_server.o : fifo_seqnum.h$/;"	t
+file	fileio/multi_descriptors.c	/^#define file /;"	d	file:
+filePermStr	files/file_perms.c	/^filePermStr(mode_t perm, int flags)$/;"	f	typeref:typename:char *
+filePermStr	lib/file_perms.c	/^filePermStr(mode_t perm, int flags)$/;"	f	typeref:typename:char *
+findEmptyCacheSlot	inotify/inotify_dtree.c	/^findEmptyCacheSlot(void)$/;"	f	typeref:typename:int	file:
+findEntry	acl/acl_update.c	/^findEntry(acl_t acl, acl_tag_t tag, id_t qaul)$/;"	f	typeref:typename:acl_entry_t	file:
+findRootDirPath	inotify/inotify_dtree.c	/^findRootDirPath(const char *path)$/;"	f	typeref:typename:char **	file:
+findWatch	inotify/inotify_dtree.c	/^findWatch(int wd)$/;"	f	typeref:typename:int	file:
+findWatchChecked	inotify/inotify_dtree.c	/^findWatchChecked(int wd)$/;"	f	typeref:typename:int	file:
+flags	namespaces/userns_child_exec.c	/^    int    flags;$/;"	m	struct:cmd_options	typeref:typename:int	file:
+fpathconfPrint	syslim/t_fpathconf.c	/^fpathconfPrint(const char *msg, int fd, int name)$/;"	f	typeref:typename:void	file:
+fpe	acl/acl_update.c	/^#define fpe(/;"	d	file:
+fpe	files/chiflag.c	/^#define fpe(/;"	d	file:
+fpe	filesys/t_mount.c	/^#define fpe(/;"	d	file:
+fpe	namespaces/userns_child_exec.c	/^#define fpe(/;"	d	file:
+fpe	procexec/demo_clone.c	/^#define fpe(/;"	d	file:
+fpe	seccomp/seccomp_user_notification.c	/^#define fpe(/;"	d	file:
+fpe2	filesys/t_mount.c	/^#define fpe2(/;"	d	file:
+freeCache	inotify/inotify_dtree.c	/^freeCache(void)$/;"	f	typeref:typename:void	file:
+func	procexec/footprint.c	/^func(int arg)$/;"	f	typeref:typename:int	file:
+func1	shlibs/demo_Bsymbolic/foo1.c	/^func1(int x)$/;"	f	typeref:typename:void
+func2	shlibs/demo_Bsymbolic/foo2.c	/^func2(int x)$/;"	f	typeref:typename:void
+func3	shlibs/demo_Bsymbolic/foo3.c	/^func3(int x)$/;"	f	typeref:typename:void
+getDirList	inotify/rand_dtree.c	/^getDirList(const char *pathname)$/;"	f	typeref:typename:int	file:
+getFlagState	lib/event_flags.c	/^getFlagState(int semId, int semNum, Boolean *isSet)$/;"	f	typeref:typename:int
+getFlagState	svsem/event_flags.c	/^getFlagState(int semId, int semNum, Boolean *isSet)$/;"	f	typeref:typename:int
+getInt	lib/get_num.c	/^getInt(const char *arg, int flags, const char *name)$/;"	f	typeref:typename:int
+getLong	lib/get_num.c	/^getLong(const char *arg, int flags, const char *name)$/;"	f	typeref:typename:long
+getNum	lib/get_num.c	/^getNum(const char *fname, const char *arg, int flags, const char *name)$/;"	f	typeref:typename:long	file:
+getPolicy	cgroups/view_v2_cgroups.go	/^func getPolicy(tid int) (bool, error) {$/;"	f	package:main	typeref:typename:(bool, error)
+getSortedIntsFrom	cgroups/view_v2_cgroups.go	/^func getSortedIntsFrom(path string) ([]int, error) {$/;"	f	package:main	typeref:typename:([]int, error)
+getTerminalWidth	cgroups/view_v2_cgroups.go	/^func getTerminalWidth() int {$/;"	f	package:main	typeref:typename:int
+getTerminalWidth	namespaces/namespaces_of.go	/^func getTerminalWidth() int {$/;"	f	package:main	typeref:typename:int
+getTgid	cgroups/view_v2_cgroups.go	/^func getTgid(tid int) (int, error) {$/;"	f	package:main	typeref:typename:(int, error)
+gettid	timers/cpu_multithread_burner.c	/^gettid(void)$/;"	f	typeref:typename:pid_t	file:
+gidMap	namespaces/namespaces_of.go	/^	gidMap     string        \/\/ UID map (user NSs only)$/;"	m	struct:main.NamespaceAttribs	typeref:typename:string
+gid_map	namespaces/userns_child_exec.c	/^    char  *gid_map;$/;"	m	struct:cmd_options	typeref:typename:char *	file:
+glob	psem/thread_incr_psem.c	/^static int glob = 0;$/;"	v	typeref:typename:int	file:
+glob	threads/thread_cleanup.c	/^static int glob = 0;                    \/* Predicate variable *\/$/;"	v	typeref:typename:int	file:
+glob	threads/thread_incr.c	/^static volatile int glob = 0;   \/* "volatile" prevents compiler optimizations$/;"	v	typeref:typename:volatile int	file:
+glob	threads/thread_incr_mutex.c	/^static volatile int glob = 0;$/;"	v	typeref:typename:volatile int	file:
+glob	threads/thread_incr_rwlock.c	/^static volatile int glob = 0;$/;"	v	typeref:typename:volatile int	file:
+glob	threads/thread_incr_spinlock.c	/^static volatile int glob = 0;$/;"	v	typeref:typename:volatile int	file:
+glob	threads/thread_lock_speed.c	/^static volatile int glob = 0;$/;"	v	typeref:typename:volatile int	file:
+globBuf	proc/mem_segments.c	/^char globBuf[65536];            \/* Uninitialized data segment *\/$/;"	v	typeref:typename:char[65536]
+gnFail	lib/get_num.c	/^gnFail(const char *fname, const char *msg, const char *arg, const char *name)$/;"	f	typeref:typename:void	file:
+gotAlarm	timers/real_timer.c	/^static volatile sig_atomic_t gotAlarm = 0;$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+gotSig	pmsg/mq_notify_siginfo.c	/^static volatile sig_atomic_t gotSig = 1;        \/* See comment in main() *\/$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+gotSig	pmsg/mq_notify_via_signal.c	/^static volatile sig_atomic_t gotSig = 1;        \/* See comment in main() *\/$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+gotSig	timers/cpu_burner.c	/^static volatile sig_atomic_t gotSig = 0;$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+gotSigint	signals/sig_receiver.c	/^static volatile sig_atomic_t gotSigint = 0;$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+gotSigio	altio/demo_sigio.c	/^static volatile sig_atomic_t gotSigio = 0;$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+gotSigquit	signals/t_sigsuspend.c	/^static volatile sig_atomic_t gotSigquit = 0;$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+grimReaper	procexec/demo_clone.c	/^grimReaper(int sig)$/;"	f	typeref:typename:void	file:
+grimReaper	sockets/is_echo_sv.c	/^grimReaper(int sig)$/;"	f	typeref:typename:void	file:
+grimReaper	sockets/is_echo_v2_sv.c	/^grimReaper(int sig)$/;"	f	typeref:typename:void	file:
+grimReaper	svmsg/svmsg_file_server.c	/^grimReaper(int sig)$/;"	f	typeref:typename:void	file:
+groupIdFromName	lib/ugid_functions.c	/^groupIdFromName(const char *name)$/;"	f	typeref:typename:gid_t
+groupIdFromName	users_groups/ugid_functions.c	/^groupIdFromName(const char *name)$/;"	f	typeref:typename:gid_t
+groupNameFromId	lib/ugid_functions.c	/^groupNameFromId(gid_t gid)$/;"	f	typeref:typename:char *
+groupNameFromId	users_groups/ugid_functions.c	/^groupNameFromId(gid_t gid)$/;"	f	typeref:typename:char *
+handleRequest	sockets/is_echo_sv.c	/^handleRequest(int cfd)$/;"	f	typeref:typename:void	file:
+handleRequest	sockets/is_echo_v2_sv.c	/^handleRequest(int cfd)$/;"	f	typeref:typename:void	file:
+handled	signals/nonreentrant.c	/^static int handled = 0;         \/* Counts number of calls to handler *\/$/;"	v	typeref:typename:int	file:
+handler	altio/self_pipe.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	inotify/dnotify.c	/^handler(int sig, siginfo_t *si, void *ucontext)$/;"	f	typeref:typename:void	file:
+handler	pgsjc/catch_SIGHUP.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	pgsjc/disc_SIGHUP.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	pgsjc/job_mon.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	pgsjc/orphaned_pgrp_SIGHUP.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	pmsg/mq_notify_sig.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	pmsg/mq_notify_siginfo.c	/^handler(int sig, siginfo_t *si, void *ucontext)$/;"	f	typeref:typename:void	file:
+handler	pmsg/mq_notify_via_signal.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	procexec/fork_sig_sync.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	procres/rusage_wait.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	seccomp/seccomp_user_notification.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	signals/ignore_pending_sig.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	signals/nonreentrant.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	signals/sig_receiver.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	signals/sig_speed_sigsuspend.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	signals/sigmask_longjmp.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	signals/t_sigsuspend.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	timers/cpu_burner.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	timers/ptmr_null_evp.c	/^handler(int sig, siginfo_t *si, void *uc)$/;"	f	typeref:typename:void	file:
+handler	timers/ptmr_sigev_signal.c	/^handler(int sig, siginfo_t *si, void *uc)$/;"	f	typeref:typename:void	file:
+handler	timers/timed_read.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handler	tty/test_tty_functions.c	/^handler(int sig)$/;"	f	typeref:typename:void	file:
+handlerSleepTime	signals/catch_rtsigs.c	/^static volatile int handlerSleepTime;$/;"	v	typeref:typename:volatile int	file:
+hstrerror	lib/alt_functions.h	/^#define hstrerror(/;"	d
+hupReceived	daemons/daemon_SIGHUP.c	/^static volatile sig_atomic_t hupReceived = 0;$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+i6d_ucase_cl.o	sockets/Makefile	/^i6d_ucase_sv.o i6d_ucase_cl.o : i6d_ucase.h $/;"	t
+i6d_ucase_sv.o	sockets/Makefile	/^i6d_ucase_sv.o i6d_ucase_cl.o : i6d_ucase.h $/;"	t
+id_echo_cl.o	sockets/Makefile	/^id_echo_cl.o id_echo_sv.o : id_echo.h $/;"	t
+id_echo_sv.o	sockets/Makefile	/^id_echo_cl.o id_echo_sv.o : id_echo.h $/;"	t
+idata	procexec/t_fork.c	/^static int idata = 111;             \/* Allocated in data segment *\/$/;"	v	typeref:typename:int	file:
+ifd	inotify/inotify_dtree.c	/^static int ifd;         \/* Inotify file descriptor *\/$/;"	v	typeref:typename:int	file:
+ignoreRootDirs	inotify/inotify_dtree.c	/^static int ignoreRootDirs;  \/* Number of command-line pathnames that$/;"	v	typeref:typename:int	file:
+inetAddressStr	lib/inet_sockets.c	/^inetAddressStr(const struct sockaddr *addr, socklen_t addrlen,$/;"	f	typeref:typename:char *
+inetAddressStr	sockets/inet_sockets.c	/^inetAddressStr(const struct sockaddr *addr, socklen_t addrlen,$/;"	f	typeref:typename:char *
+inetBind	lib/inet_sockets.c	/^inetBind(const char *service, int type, socklen_t *addrlen)$/;"	f	typeref:typename:int
+inetBind	sockets/inet_sockets.c	/^inetBind(const char *service, int type, socklen_t *addrlen)$/;"	f	typeref:typename:int
+inetConnect	lib/inet_sockets.c	/^inetConnect(const char *host, const char *service, int type)$/;"	f	typeref:typename:int
+inetConnect	sockets/inet_sockets.c	/^inetConnect(const char *host, const char *service, int type)$/;"	f	typeref:typename:int
+inetListen	lib/inet_sockets.c	/^inetListen(const char *service, int backlog, socklen_t *addrlen)$/;"	f	typeref:typename:int
+inetListen	sockets/inet_sockets.c	/^inetListen(const char *service, int backlog, socklen_t *addrlen)$/;"	f	typeref:typename:int
+inetPassiveSocket	lib/inet_sockets.c	/^inetPassiveSocket(const char *service, int type, socklen_t *addrlen,$/;"	f	typeref:typename:int	file:
+inetPassiveSocket	sockets/inet_sockets.c	/^inetPassiveSocket(const char *service, int type, socklen_t *addrlen,$/;"	f	typeref:typename:int	file:
+initSemAvailable	lib/binary_sems.c	/^initSemAvailable(int semId, int semNum)$/;"	f	typeref:typename:int
+initSemAvailable	svsem/binary_sems.c	/^initSemAvailable(int semId, int semNum)$/;"	f	typeref:typename:int
+initSemInUse	lib/binary_sems.c	/^initSemInUse(int semId, int semNum)$/;"	f	typeref:typename:int
+initSemInUse	svsem/binary_sems.c	/^initSemInUse(int semId, int semNum)$/;"	f	typeref:typename:int
+init_func	threads/one_time_init.c	/^init_func()$/;"	f	typeref:typename:void	file:
+initialNS	namespaces/userns_overview.go	/^var initialNS NamespaceID$/;"	v	package:main	typeref:struct:NamespaceID
+initialPidNS	namespaces/pid_namespaces.go	/^var initialPidNS NamespaceID$/;"	v	package:main	typeref:struct:NamespaceID
+inode	namespaces/namespaces_of.go	/^	inode  uint64 \/\/ ino_t$/;"	m	struct:main.NamespaceID	typeref:typename:uint64
+inode_num	namespaces/pid_namespaces.go	/^	inode_num uint64 \/\/ ino_t$/;"	m	struct:main.NamespaceID	typeref:typename:uint64
+inode_num	namespaces/userns_overview.go	/^	inode_num uint64 \/\/ ino_t$/;"	m	struct:main.NamespaceID	typeref:typename:uint64
+inotifyReadCnt	inotify/inotify_dtree.c	/^static int inotifyReadCnt = 0;          \/* Counts number of read()s from$/;"	v	typeref:typename:int	file:
+installFilter2	seccomp/seccomp_user_notification.c	/^installFilter2(struct cmdLineOpts *opts)$/;"	f	typeref:typename:void	file:
+installNotifyFilter	seccomp/seccomp_user_notification.c	/^installNotifyFilter(void)$/;"	f	typeref:typename:int	file:
+install_filter	seccomp/seccomp_arg64.c	/^install_filter(void)$/;"	f	typeref:typename:void	file:
+install_filter	seccomp/seccomp_control_open.c	/^install_filter(void)$/;"	f	typeref:typename:void	file:
+install_filter	seccomp/seccomp_deny_open.c	/^install_filter(void)$/;"	f	typeref:typename:void	file:
+install_filter	seccomp/seccomp_logging.c	/^install_filter(void)$/;"	f	typeref:typename:void	file:
+install_filter	seccomp/seccomp_multiarch.c	/^install_filter(void)$/;"	f	typeref:typename:void	file:
+install_filter	seccomp/seccomp_perf.c	/^install_filter(void)$/;"	f	typeref:typename:void	file:
+install_filter	seccomp/seccomp_trap_sigsys.c	/^install_filter(void)$/;"	f	typeref:typename:void	file:
+intquit	signals/Makefile	/^intquit : intquit.c$/;"	t
+invisUserNS	namespaces/namespaces_of.go	/^var invisUserNS = NamespaceID{0, 0} \/\/ Const value$/;"	v	package:main
+isRootDirPath	inotify/inotify_dtree.c	/^isRootDirPath(const char *path)$/;"	f	typeref:typename:int	file:
+is_ancestor_userns	namespaces/ns_capable.c	/^is_ancestor_userns(int fd_x, int fd_y)$/;"	f	typeref:typename:int	file:
+is_seqnum_cl.o	sockets/Makefile	/^is_seqnum_sv.o is_seqnum_cl.o : is_seqnum.h $/;"	t
+is_seqnum_sv.o	sockets/Makefile	/^is_seqnum_sv.o is_seqnum_cl.o : is_seqnum.h $/;"	t
+is_seqnum_v2_cl.o	sockets/Makefile	/^is_seqnum_v2_sv.o is_seqnum_v2_cl.o : is_seqnum_v2.h $/;"	t
+is_seqnum_v2_sv.o	sockets/Makefile	/^is_seqnum_v2_sv.o is_seqnum_v2_cl.o : is_seqnum_v2.h $/;"	t
+itimerspecFromStr	lib/itimerspec_from_str.c	/^itimerspecFromStr(char *str, struct itimerspec *tsp)$/;"	f	typeref:typename:void
+itimerspecFromStr	timers/itimerspec_from_str.c	/^itimerspecFromStr(char *str, struct itimerspec *tsp)$/;"	f	typeref:typename:void
+killTracer	seccomp/seccomp_user_notification.c	/^    bool killTracer;    \/* Kill tracer when target has died? *\/$/;"	m	struct:cmdLineOpts	typeref:typename:bool	file:
+len	altio/select_mq.c	/^    int len;                    \/* Number of bytes used in mtext *\/$/;"	m	struct:pbuf	typeref:typename:int	file:
+len	lib/read_line_buf.h	/^    ssize_t len;                \/* Number of characters in 'buf' *\/$/;"	m	struct:ReadLineBuf	typeref:typename:ssize_t
+len	sockets/read_line_buf.h	/^    ssize_t len;                \/* Number of characters in 'buf' *\/$/;"	m	struct:ReadLineBuf	typeref:typename:ssize_t
+libfoo1.so	shlibs/demo_Bsymbolic/Makefile	/^libfoo1.so:$/;"	t
+libfoo2.so	shlibs/demo_Bsymbolic/Makefile	/^libfoo2.so:$/;"	t
+libfoo3.so	shlibs/demo_Bsymbolic/Makefile	/^libfoo3.so:$/;"	t
+libseccomp_demo	seccomp/Makefile	/^libseccomp_demo : libseccomp_demo.c$/;"	t
+listFiles	dirs_links/list_files.c	/^listFiles(const char *dirpath)$/;"	f	typeref:typename:void	file:
+listFiles	dirs_links/list_files_readdir_r.c	/^listFiles(const char *dirpath)$/;"	f	typeref:typename:void	file:
+loadFilter	seccomp/seccomp_launch.c	/^loadFilter(char *filterPathname)$/;"	f	typeref:typename:void	file:
+lockReg	filelock/region_locking.c	/^lockReg(int fd, int cmd, int type, int whence, int start, off_t len)$/;"	f	typeref:typename:int	file:
+lockReg	lib/region_locking.c	/^lockReg(int fd, int cmd, int type, int whence, int start, off_t len)$/;"	f	typeref:typename:int	file:
+lockRegion	filelock/region_locking.c	/^lockRegion(int fd, int type, int whence, int start, int len)$/;"	f	typeref:typename:int
+lockRegion	lib/region_locking.c	/^lockRegion(int fd, int type, int whence, int start, int len)$/;"	f	typeref:typename:int
+lockRegionWait	filelock/region_locking.c	/^lockRegionWait(int fd, int type, int whence, int start, int len)$/;"	f	typeref:typename:int
+lockRegionWait	lib/region_locking.c	/^lockRegionWait(int fd, int type, int whence, int start, int len)$/;"	f	typeref:typename:int
+logClose	daemons/daemon_SIGHUP.c	/^logClose(void)$/;"	f	typeref:typename:void	file:
+logMessage	daemons/daemon_SIGHUP.c	/^logMessage(const char *format, ...)$/;"	f	typeref:typename:void	file:
+logMessage	inotify/inotify_dtree.c	/^logMessage(int vb_mask, const char *format, ...)$/;"	f	typeref:typename:void	file:
+logMessage	inotify/rand_dtree.c	/^logMessage(const char *format, ...)$/;"	f	typeref:typename:void	file:
+logOpen	daemons/daemon_SIGHUP.c	/^logOpen(const char *logFilename)$/;"	f	typeref:typename:void	file:
+logfp	daemons/daemon_SIGHUP.c	/^static FILE *logfp;                 \/* Log file stream *\/$/;"	v	typeref:typename:FILE *	file:
+logfp	inotify/inotify_dtree.c	/^static FILE *logfp = NULL;$/;"	v	typeref:typename:FILE *	file:
+logfp	inotify/rand_dtree.c	/^static FILE *logfp = NULL;$/;"	v	typeref:typename:FILE *	file:
+main	acl/acl_update.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	acl/acl_view.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	altio/demo_sigio.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	altio/epoll_flags_fork.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	altio/epoll_input.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	altio/multithread_epoll_wait.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	altio/poll_pipes.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	altio/select_mq.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	altio/self_pipe.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	altio/t_select.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	cap/cap_launcher.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	cap/cap_text.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	cap/check_password_caps.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	cap/demo_file_caps.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	cap/view_cap_xattr.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	cgroups/alloc_mem.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	cgroups/fork_bomb.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	cgroups/view_v2_cgroups.go	/^func main() {$/;"	f	package:main
+main	cgroups/view_v2_cgroups.go	/^package main$/;"	p
+main	daemons/daemon_SIGHUP.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	daemons/t_syslog.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	daemons/test_become_daemon.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	dirs_links/bad_symlink.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	dirs_links/file_type_stats.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	dirs_links/list_files.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	dirs_links/list_files_readdir_r.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	dirs_links/nftw_dir_tree.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	dirs_links/t_dirbasename.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	dirs_links/t_unlink.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	dirs_links/view_symlink.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filebuff/copy.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filebuff/direct_read.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filebuff/mix23_linebuff.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filebuff/mix23io.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filebuff/write_bytes.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	fileio/atomic_append.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	fileio/bad_exclusive_open.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	fileio/copy.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	fileio/large_file.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	fileio/multi_descriptors.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	fileio/seek_io.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	fileio/t_readv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	fileio/t_truncate.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filelock/i_fcntl_locking.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filelock/t_flock.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	files/chiflag.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	files/t_chown.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	files/t_stat.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	files/t_umask.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	files/t_utime.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	files/t_utimes.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filesys/t_mount.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filesys/t_statfs.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filesys/t_statvfs.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	filesys/t_umount.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	getopt/t_getopt.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	inotify/demo_inotify.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	inotify/dnotify.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	inotify/inotify_dtree.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	inotify/rand_dtree.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	loginacct/dump_utmpx.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	loginacct/utmpx_login.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	loginacct/view_lastlog.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	memalloc/free_and_sbrk.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	mmap/anon_mmap.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	mmap/mmcat.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	mmap/mmcopy.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	mmap/t_mmap.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	mmap/t_remap_file_pages.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	myprog/myproc.c	/^int main() {$/;"	f	typeref:typename:int
+main	namespaces/cred_launcher.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/demo_userns.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/demo_uts_namespaces.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/hostname.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/multi_pidns.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/namespaces_of.go	/^func main() {$/;"	f	package:main
+main	namespaces/namespaces_of.go	/^package main$/;"	p
+main	namespaces/ns_capable.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/ns_child_exec.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/ns_exec.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/ns_run.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/orphan.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/pid_namespaces.go	/^func main() {$/;"	f	package:main
+main	namespaces/pid_namespaces.go	/^package main$/;"	p
+main	namespaces/pidns_init_sleep.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/show_creds.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/simple_init.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/t_setns_userns.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/unshare.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/userns_child_exec.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	namespaces/userns_overview.go	/^func main() {$/;"	f	package:main
+main	namespaces/userns_overview.go	/^package main$/;"	p
+main	namespaces/userns_setns_test.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pgsjc/catch_SIGHUP.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pgsjc/disc_SIGHUP.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pgsjc/handling_SIGTSTP.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pgsjc/job_mon.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pgsjc/orphaned_pgrp_SIGHUP.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pgsjc/t_setsid.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pipes/change_case.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pipes/fifo_seqnum_client.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pipes/fifo_seqnum_server.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pipes/pipe_ls_wc.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pipes/pipe_sync.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pipes/popen_glob.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pipes/simple_pipe.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/mq_notify_sig.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/mq_notify_siginfo.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/mq_notify_sigwaitinfo.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/mq_notify_thread.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/mq_notify_via_signal.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/mq_notify_via_thread.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/pmsg_create.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/pmsg_getattr.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/pmsg_receive.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/pmsg_send.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pmsg/pmsg_unlink.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	proc/bad_longjmp.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	proc/display_env.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	proc/longjmp.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	proc/mem_segments.c	/^main(int argc, char *argv[])    \/* Allocated in frame for main() *\/$/;"	f	typeref:typename:int
+main	proc/modify_env.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	proc/necho.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	proc/setenv.c	/^main()$/;"	f	typeref:typename:int
+main	proc/setjmp_vars.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	proc/t_getenv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	proccred/idshow.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/acct_on.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/acct_v3_view.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/acct_view.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/child_status.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/closeonexec.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/demo_clone.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/envargs.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/exit_handlers.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/footprint.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/fork_file_sharing.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/fork_sig_sync.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/fork_stdio_buf.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/fork_whos_on_first.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/make_zombie.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/multi_SIGCHLD.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/multi_wait.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/necho.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/orphan.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/t_clone.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/t_execl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/t_execle.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/t_execlp.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/t_execve.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/t_fork.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/t_system.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/t_vfork.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procexec/vfork_fd_test.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procpri/demo_sched_fifo.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procpri/sched_set.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procpri/sched_view.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procpri/t_sched_getaffinity.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procpri/t_sched_setaffinity.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procpri/t_setpriority.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procres/rlimit_nproc.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procres/rusage.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	procres/rusage_wait.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	progconc/syscall_speed.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	psem/psem_create.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	psem/psem_getvalue.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	psem/psem_post.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	psem/psem_timedwait.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	psem/psem_trywait.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	psem/psem_unlink.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	psem/psem_wait.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	psem/thread_incr_psem.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pshm/pshm_create.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pshm/pshm_read.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pshm/pshm_unlink.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pshm/pshm_write.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pty/script.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	pty/unbuffer.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	seccomp/dump_seccomp_filter.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	seccomp/libseccomp_demo.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	seccomp/seccomp_arg64.c	/^main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	seccomp/seccomp_control_open.c	/^main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	seccomp/seccomp_deny_open.c	/^main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	seccomp/seccomp_launch.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	seccomp/seccomp_logging.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	seccomp/seccomp_multiarch.c	/^main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	seccomp/seccomp_perf.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	seccomp/seccomp_trap_sigsys.c	/^main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	seccomp/seccomp_user_notification.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	shlibs/demo_Bsymbolic/prog.c	/^main(int argc, char*argv[])$/;"	f	typeref:typename:int
+main	shlibs/dynload.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	shlibs/prog.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	shlibs/version_scripts/sv_prog.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	shlibs/version_scripts/sv_prog_abc.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	shlibs/version_scripts/sv_prog_complex.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	signals/catch_rtsigs.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/demo_SIGFPE.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/ignore_pending_sig.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/intquit.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/nonreentrant.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/ouch.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/sig_receiver.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/sig_sender.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/sig_speed_sigsuspend.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/sigmask_longjmp.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/signalfd_sigval.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/t_kill.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/t_sigaltstack.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/t_sigqueue.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/t_sigsuspend.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	signals/t_sigwaitinfo.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/i6d_ucase_cl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/i6d_ucase_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/id_echo_cl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/id_echo_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/is_echo_cl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/is_echo_inetd_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/is_echo_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/is_echo_v2_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/is_seqnum_cl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/is_seqnum_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/is_seqnum_v2_cl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/is_seqnum_v2_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/list_host_addresses.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/scm_cred_recv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/scm_cred_send.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/scm_multi_recv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/scm_multi_send.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/scm_rights_recv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/scm_rights_send.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/socknames.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/t_gethostbyname.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/t_getservbyname.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/ud_ucase_cl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/ud_ucase_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/us_abstract_bind.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/us_xfr_cl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/us_xfr_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/us_xfr_v2_cl.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sockets/us_xfr_v2_sv.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svipc/svmsg_demo_server.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svipc/t_ftok.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_chqbytes.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_create.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_file_client.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_file_server.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_info.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_ls.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_receive.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_rm.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svmsg/svmsg_send.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_bad_init.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_create.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_demo.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_good_init.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_info.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_mon.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_op.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_rm.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svsem/svsem_setall.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_attach.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_create.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_info.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_lock.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_mon.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_rm.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_unlock.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_xfr_reader.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	svshm/svshm_xfr_writer.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sysinfo/procfs_pidmax.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sysinfo/procfs_user_exe.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	sysinfo/t_uname.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	syslim/t_fpathconf.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	syslim/t_sysconf.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/detached_attrib.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/one_time_init.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/prod_condvar.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/prod_no_condvar.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/pthread_barrier_demo.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/simple_thread.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/strerror_test.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/thread_cancel.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/thread_cleanup.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/thread_incr.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/thread_incr_mutex.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/thread_incr_rwlock.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/thread_incr_spinlock.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/thread_lock_speed.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	threads/thread_multijoin.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	time/calendar_time.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	time/process_time.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	time/show_time.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	time/strtime.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	time/t_stime.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/cpu_burner.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/cpu_multi_burner.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/cpu_multithread_burner.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/demo_timerfd.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/ptmr_null_evp.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/ptmr_sigev_signal.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/ptmr_sigev_thread.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/real_timer.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/t_clock_nanosleep.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/t_nanosleep.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	timers/timed_read.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	tty/demo_SIGWINCH.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	tty/new_intr.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	tty/no_echo.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	tty/test_tty_functions.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	users_groups/check_password.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	users_groups/t_getpwent.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	users_groups/t_getpwnam_r.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	vdso/gettimeofday.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	vmem/madvise_dontneed.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	vmem/memlock.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	vmem/t_mprotect.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	xattr/t_setxattr.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	xattr/xattr_view.c	/^main(int argc, char *argv[])$/;"	f	typeref:typename:int
+mandLockingEnabled	filelock/i_fcntl_locking.c	/^mandLockingEnabled(int fd)$/;"	f	typeref:typename:Boolean	file:
+markCacheSlotEmpty	inotify/inotify_dtree.c	/^markCacheSlotEmpty(int slot)$/;"	f	typeref:typename:void	file:
+max	lib/tlpi_hdr.h	/^#define max(/;"	d
+max	procexec/execlp.c	/^#define max(/;"	d	file:
+mbuf	svmsg/svmsg_receive.c	/^struct mbuf {$/;"	s	file:
+mbuf	svmsg/svmsg_send.c	/^struct mbuf {$/;"	s	file:
+min	lib/tlpi_hdr.h	/^#define min(/;"	d
+modifyCap	cap/check_password_caps.c	/^modifyCap(int capability, int setting)$/;"	f	typeref:typename:int	file:
+modifyCapSetting	cap/cap_functions.c	/^modifyCapSetting(cap_flag_t flag, int capability, int setting)$/;"	f	typeref:typename:int
+modifyCapSetting	lib/cap_functions.c	/^modifyCapSetting(cap_flag_t flag, int capability, int setting)$/;"	f	typeref:typename:int
+modify_individual_capability	namespaces/userns_child_exec.c	/^modify_individual_capability(char *optval)$/;"	f	typeref:typename:void	file:
+msqid	altio/select_mq.c	/^    int msqid;                  \/* Origin of message *\/$/;"	m	struct:pbuf	typeref:typename:int	file:
+mtext	altio/select_mq.c	/^    char mtext[MAX_MTEXT];      \/* Message body *\/$/;"	m	struct:pbuf	typeref:typename:char[]	file:
+mtext	svmsg/svmsg_receive.c	/^    char mtext[MAX_MTEXT];      \/* Message body *\/$/;"	m	struct:mbuf	typeref:typename:char[]	file:
+mtext	svmsg/svmsg_send.c	/^    char mtext[MAX_MTEXT];              \/* Message body *\/$/;"	m	struct:mbuf	typeref:typename:char[]	file:
+mtx	threads/one_time_init.c	/^    pthread_mutex_t mtx;$/;"	m	struct:once_struct	typeref:typename:pthread_mutex_t	file:
+mtx	threads/prod_condvar.c	/^static pthread_mutex_t mtx = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+mtx	threads/prod_no_condvar.c	/^static pthread_mutex_t mtx = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+mtx	threads/thread_cleanup.c	/^static pthread_mutex_t mtx = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+mtx	threads/thread_incr_mutex.c	/^static pthread_mutex_t mtx = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+mtx	threads/thread_lock_speed.c	/^static pthread_mutex_t mtx;$/;"	v	typeref:typename:pthread_mutex_t	file:
+mtx	timers/ptmr_sigev_thread.c	/^static pthread_mutex_t mtx = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+mtype	altio/select_mq.c	/^    long mtype;                 \/* Message type *\/$/;"	m	struct:pbuf	typeref:typename:long	file:
+mtype	svmsg/svmsg_file.h	/^    long mtype;                         \/* One of RESP_MT_* values below *\/$/;"	m	struct:responseMsg	typeref:typename:long
+mtype	svmsg/svmsg_file.h	/^    long mtype;                         \/* Unused *\/$/;"	m	struct:requestMsg	typeref:typename:long
+mtype	svmsg/svmsg_receive.c	/^    long mtype;                 \/* Message type *\/$/;"	m	struct:mbuf	typeref:typename:long	file:
+mtype	svmsg/svmsg_send.c	/^    long mtype;                         \/* Message type *\/$/;"	m	struct:mbuf	typeref:typename:long	file:
+multithread_epoll_wait	altio/Makefile	/^multithread_epoll_wait: multithread_epoll_wait.o$/;"	t
+myfunc	progconc/syscall_speed.c	/^static int myfunc() { return 1; }$/;"	f	typeref:typename:int	file:
+namespaceToStr	namespaces/namespaces_of.go	/^var namespaceToStr = map[int]string{$/;"	v	package:main
+namespaceType	namespaces/namespaces_of.go	/^func namespaceType(namespaceFD int) int {$/;"	f	package:main	typeref:typename:int
+namespaces	namespaces/namespaces_of.go	/^	namespaces         int    \/\/ Bit mask of CLONE_NEW* values$/;"	m	struct:main.CmdLineOptions	typeref:typename:int
+newNamespaceID	namespaces/namespaces_of.go	/^func newNamespaceID(namespaceFD int) NamespaceID {$/;"	f	package:main	typeref:typename:NamespaceID
+next	lib/read_line_buf.h	/^    int     next;               \/* Index of next unread character in 'buf' *\/$/;"	m	struct:ReadLineBuf	typeref:typename:int
+next	sockets/read_line_buf.h	/^    int     next;               \/* Index of next unread character in 'buf' *\/$/;"	m	struct:ReadLineBuf	typeref:typename:int
+nonreentrant	signals/Makefile	/^nonreentrant : nonreentrant.o$/;"	t
+notifySetup	pmsg/mq_notify_thread.c	/^notifySetup(mqd_t *mqdp)$/;"	f	typeref:typename:void	file:
+notifySetup	pmsg/mq_notify_via_thread.c	/^notifySetup(mqd_t *mqdp)$/;"	f	typeref:typename:void	file:
+nsList	namespaces/namespaces_of.go	/^	nsList NamespaceList$/;"	m	struct:main.NamespaceInfo	typeref:typename:NamespaceList
+nsType	namespaces/namespaces_of.go	/^	nsType     int           \/\/ CLONE_NEW*$/;"	m	struct:main.NamespaceAttribs	typeref:typename:int
+ns_capable	namespaces/Makefile	/^ns_capable: ns_capable.o$/;"	t
+ns_equal	namespaces/ns_capable.c	/^ns_equal(int nsfd1, int nsfd2)$/;"	f	typeref:typename:bool	file:
+ns_type	namespaces/ns_capable.c	/^ns_type(int ns_fd)$/;"	f	typeref:typename:int	file:
+numBarriers	threads/pthread_barrier_demo.c	/^static int numBarriers;         \/* Number of times the threads will$/;"	v	typeref:typename:int	file:
+numBlock	dirs_links/file_type_stats.c	/^           numFifo = 0, numChar = 0, numBlock = 0,$/;"	v	typeref:typename:int	file:
+numChar	dirs_links/file_type_stats.c	/^           numFifo = 0, numChar = 0, numBlock = 0,$/;"	v	typeref:typename:int	file:
+numDir	dirs_links/file_type_stats.c	/^static int numReg = 0, numDir = 0, numSymLk = 0, numSocket = 0,$/;"	v	typeref:typename:int	file:
+numFifo	dirs_links/file_type_stats.c	/^           numFifo = 0, numChar = 0, numBlock = 0,$/;"	v	typeref:typename:int	file:
+numInnerLoops	threads/thread_lock_speed.c	/^static int numInnerLoops;$/;"	v	typeref:typename:int	file:
+numLive	threads/thread_multijoin.c	/^static int numLive = 0;         \/* Total number of threads still alive or$/;"	v	typeref:typename:int	file:
+numLiveChildren	procexec/multi_SIGCHLD.c	/^static volatile int numLiveChildren = 0;$/;"	v	typeref:typename:volatile int	file:
+numNonstatable	dirs_links/file_type_stats.c	/^           numNonstatable = 0;$/;"	v	typeref:typename:int	file:
+numOuterLoops	threads/thread_lock_speed.c	/^static int numOuterLoops;$/;"	v	typeref:typename:int	file:
+numReg	dirs_links/file_type_stats.c	/^static int numReg = 0, numDir = 0, numSymLk = 0, numSocket = 0,$/;"	v	typeref:typename:int	file:
+numRootDirs	inotify/inotify_dtree.c	/^static int numRootDirs;     \/* Number of pathnames supplied on command line *\/$/;"	v	typeref:typename:int	file:
+numSocket	dirs_links/file_type_stats.c	/^static int numReg = 0, numDir = 0, numSymLk = 0, numSocket = 0,$/;"	v	typeref:typename:int	file:
+numSymLk	dirs_links/file_type_stats.c	/^static int numReg = 0, numDir = 0, numSymLk = 0, numSocket = 0,$/;"	v	typeref:typename:int	file:
+numUnjoined	threads/thread_multijoin.c	/^static int numUnjoined = 0;     \/* Number of terminated threads that$/;"	v	typeref:typename:int	file:
+once	threads/one_time_init.c	/^struct once_struct once = ONCE_INITIALIZER;$/;"	v	typeref:struct:once_struct
+once	threads/strerror_tsd.c	/^static pthread_once_t once = PTHREAD_ONCE_INIT;$/;"	v	typeref:typename:pthread_once_t	file:
+once_struct	threads/one_time_init.c	/^struct once_struct {            \/* Our equivalent of pthread_once_t *\/$/;"	s	file:
+one_time_init	threads/one_time_init.c	/^one_time_init(struct once_struct *once_control, void (*init)(void))$/;"	f	typeref:typename:int	file:
+onexitFunc	procexec/exit_handlers.c	/^onexitFunc(int exitStatus, void *arg)$/;"	f	typeref:typename:void	file:
+openNamespaceSymlink	namespaces/namespaces_of.go	/^func openNamespaceSymlink(pid string, nsFile string) int {$/;"	f	package:main	typeref:typename:int
+opt	namespaces/userns_child_exec.c	/^    char  opt;$/;"	m	struct:option_list	typeref:typename:char	file:
+opt_cnt	namespaces/userns_child_exec.c	/^    int    opt_cnt;$/;"	m	struct:cmd_options	typeref:typename:int	file:
+opt_list	namespaces/userns_child_exec.c	/^    struct option_list opt_list[MAX_OPT];$/;"	m	struct:cmd_options	typeref:struct:option_list[]	file:
+option_list	namespaces/userns_child_exec.c	/^struct option_list {$/;"	s	file:
+opts	cgroups/view_v2_cgroups.go	/^var opts CmdLineOptions$/;"	v	package:main	typeref:struct:CmdLineOptions
+ouch	signals/Makefile	/^ouch : ouch.c$/;"	t
+outputError	lib/error_functions.c	/^outputError(Boolean useErr, int err, Boolean flushStdout,$/;"	f	typeref:typename:void	file:
+overflowStack	signals/t_sigaltstack.c	/^overflowStack(int callNum)$/;"	f	typeref:typename:void	file:
+owning_userns_of	namespaces/ns_capable.c	/^owning_userns_of(int ns_fd)$/;"	f	typeref:typename:int	file:
+parseACL	acl/acl_update.c	/^parseACL(char *aclStr, struct AccessControlEntry aclist[],$/;"	f	typeref:typename:int	file:
+parseCmdLineOptions	cgroups/view_v2_cgroups.go	/^func parseCmdLineOptions() CmdLineOptions {$/;"	f	package:main	typeref:typename:CmdLineOptions
+parseCmdLineOptions	namespaces/namespaces_of.go	/^func parseCmdLineOptions() CmdLineOptions {$/;"	f	package:main	typeref:typename:CmdLineOptions
+parseCommandLineOptions	seccomp/seccomp_user_notification.c	/^parseCommandLineOptions(int argc, char *argv[], struct cmdLineOpts *opts)$/;"	f	typeref:typename:void	file:
+parseEntrySpec	acl/acl_update.c	/^parseEntrySpec(char *entryStr, struct AccessControlEntry *ace,$/;"	f	typeref:typename:Boolean	file:
+parseOps	svsem/svsem_op.c	/^parseOps(char *arg, struct sembuf sops[])$/;"	f	typeref:typename:int	file:
+parse_command_options	namespaces/userns_child_exec.c	/^parse_command_options(int argc, char *argv[], struct cmd_options *opts)$/;"	f	typeref:typename:void	file:
+path	inotify/inotify_dtree.c	/^    char path[PATH_MAX];        \/* Cached pathname *\/$/;"	m	struct:watch	typeref:typename:char[]	file:
+pathname	svmsg/svmsg_file.h	/^    char pathname[PATH_MAX];            \/* File to be returned *\/$/;"	m	struct:requestMsg	typeref:typename:char[]
+pathnameInCache	inotify/inotify_dtree.c	/^pathnameInCache(const char *pathname)$/;"	f	typeref:typename:int	file:
+pathnameToCacheSlot	inotify/inotify_dtree.c	/^pathnameToCacheSlot(const char *pathname)$/;"	f	typeref:typename:int	file:
+pbuf	altio/select_mq.c	/^struct pbuf {$/;"	s	file:
+perform_repeatable_options	namespaces/userns_child_exec.c	/^perform_repeatable_options(struct cmd_options *opts)$/;"	f	typeref:typename:void	file:
+perms	acl/acl_update.c	/^    int         perms;          \/* Permissions bit mask *\/$/;"	m	struct:AccessControlEntry	typeref:typename:int	file:
+pfd	altio/self_pipe.c	/^static int pfd[2];                      \/* File descriptors for pipe *\/$/;"	v	typeref:typename:int[2]	file:
+pid	pipes/fifo_seqnum.h	/^    pid_t pid;                  \/* PID of client *\/$/;"	m	struct:request	typeref:typename:pid_t
+pids	namespaces/namespaces_of.go	/^	pids       []int         \/\/ Member processes$/;"	m	struct:main.NamespaceAttribs	typeref:typename:[]int
+pids	namespaces/pid_namespaces.go	/^	pids     []int         \/\/ Member processes$/;"	m	struct:main.NamespaceAttribs	typeref:typename:[]int
+pids	namespaces/userns_overview.go	/^	pids     []int         \/\/ Member processes$/;"	m	struct:main.NamespaceAttribs	typeref:typename:[]int
+pipe1	altio/multithread_epoll_wait.c	/^static int pipe1[2];$/;"	v	typeref:typename:int[2]	file:
+pipe_fd	namespaces/userns_child_exec.c	/^static int pipe_fd[2];  \/* Pipe used to synchronize parent and child *\/$/;"	v	typeref:typename:int[2]	file:
+posix_openpt	lib/alt_functions.h	/^#define posix_openpt(/;"	d
+posix_openpt	lib/pty_master_open.c	/^posix_openpt(int flags)$/;"	f	typeref:typename:int	file:
+posix_openpt	pty/pty_master_open.c	/^posix_openpt(int flags)$/;"	f	typeref:typename:int	file:
+pqr	shlibs/version_scripts/sv_lib_v2.c	/^void pqr(void) { printf("v2 pqr\\n"); }$/;"	f	typeref:typename:void
+primes	proc/mem_segments.c	/^int primes[] = { 2, 3, 5, 7 };  \/* Initialized data segment *\/$/;"	v	typeref:typename:int[]
+printAllCaps	cap/cap_text.c	/^printAllCaps(cap_t capSets, int flags)$/;"	f	typeref:typename:void	file:
+printAllPIDsFor	namespaces/namespaces_of.go	/^func printAllPIDsFor(pid int, opts CmdLineOptions) {$/;"	f	package:main
+printCap	cap/cap_text.c	/^printCap(cap_t capSets, cap_value_t cap, char *capStrName, int flags)$/;"	f	typeref:typename:void	file:
+printChildRusage	procres/rusage_wait.c	/^printChildRusage(const char *msg)$/;"	f	typeref:typename:void	file:
+printPendingSigs	lib/signal_functions.c	/^printPendingSigs(FILE *of, const char *msg)$/;"	f	typeref:typename:int
+printPendingSigs	signals/signal_functions.c	/^printPendingSigs(FILE *of, const char *msg)$/;"	f	typeref:typename:int
+printRlimit	lib/print_rlimit.c	/^printRlimit(const char *msg, int resource)$/;"	f	typeref:typename:int
+printRlimit	procres/print_rlimit.c	/^printRlimit(const char *msg, int resource)$/;"	f	typeref:typename:int
+printRusage	lib/print_rusage.c	/^printRusage(const char *leader, const struct rusage *ru)$/;"	f	typeref:typename:void
+printRusage	procres/print_rusage.c	/^printRusage(const char *leader, const struct rusage *ru)$/;"	f	typeref:typename:void
+printShmDS	svshm/svshm_mon.c	/^printShmDS(const struct shmid_ds *ds)$/;"	f	typeref:typename:void	file:
+printSigMask	lib/signal_functions.c	/^printSigMask(FILE *of, const char *msg)$/;"	f	typeref:typename:int
+printSigMask	signals/signal_functions.c	/^printSigMask(FILE *of, const char *msg)$/;"	f	typeref:typename:int
+printSigset	lib/signal_functions.c	/^printSigset(FILE *of, const char *prefix, const sigset_t *sigset)$/;"	f	typeref:typename:void
+printSigset	signals/signal_functions.c	/^printSigset(FILE *of, const char *prefix, const sigset_t *sigset)$/;"	f	typeref:typename:void
+printStats	dirs_links/file_type_stats.c	/^printStats(const char *msg, int num, int numFiles)$/;"	f	typeref:typename:void	file:
+printWaitStatus	lib/print_wait_status.c	/^printWaitStatus(const char *msg, int status)$/;"	f	typeref:typename:void
+printWaitStatus	procexec/print_wait_status.c	/^printWaitStatus(const char *msg, int status)$/;"	f	typeref:typename:void
+printable	getopt/t_getopt.c	/^#define printable(/;"	d	file:
+proc_setgroups_write	lib/userns_functions.c	/^proc_setgroups_write(pid_t child_pid, char *str)$/;"	f	typeref:typename:int
+proc_setgroups_write	namespaces/userns_functions.c	/^proc_setgroups_write(pid_t child_pid, char *str)$/;"	f	typeref:typename:int
+processInotifyEvents	inotify/inotify_dtree.c	/^processInotifyEvents(int *inotifyFd)$/;"	f	typeref:typename:void	file:
+processNextInotifyEvent	inotify/inotify_dtree.c	/^processNextInotifyEvent(int *inotifyFd, char *buf, int bufSize, int firstTry)$/;"	f	typeref:typename:size_t	file:
+process_time_test	time/Makefile	/^process_time_test: process_time_test.o$/;"	t
+prog	shlibs/demo_Bsymbolic/Makefile	/^prog: prog.o libfoo1.so libfoo2.so libfoo3.so$/;"	t
+psem_timedwait	psem/Makefile	/^psem_timedwait: psem_timedwait.o$/;"	t
+ptyFork	lib/pty_fork.c	/^ptyFork(int *masterFd, char *slaveName, size_t snLen,$/;"	f	typeref:typename:pid_t
+ptyFork	pty/pty_fork.c	/^ptyFork(int *masterFd, char *slaveName, size_t snLen,$/;"	f	typeref:typename:pid_t
+ptyMasterOpen	lib/pty_master_open.c	/^ptyMasterOpen(char *slaveName, size_t snLen)$/;"	f	typeref:typename:int
+ptyMasterOpen	pty/pty_master_open.c	/^ptyMasterOpen(char *slaveName, size_t snLen)$/;"	f	typeref:typename:int
+ptyMasterOpen	pty/pty_master_open_bsd.c	/^ptyMasterOpen(char *slaveName, size_t snLen)$/;"	f	typeref:typename:int
+qual	acl/acl_update.c	/^    id_t        qual;           \/* Optional tag qualifier (UID or GID) *\/$/;"	m	struct:AccessControlEntry	typeref:typename:id_t	file:
+raiseCap	cap/check_password_caps.c	/^raiseCap(int capability)$/;"	f	typeref:typename:int	file:
+raiseInheritableAndAmbientCaps	namespaces/userns_child_exec.c	/^raiseInheritableAndAmbientCaps(bool doAmbient)$/;"	f	typeref:typename:void	file:
+readBufferSize	inotify/inotify_dtree.c	/^static int readBufferSize = 0;$/;"	v	typeref:typename:int	file:
+readConfigFile	daemons/daemon_SIGHUP.c	/^readConfigFile(const char *configFilename)$/;"	f	typeref:typename:void	file:
+readLine	lib/read_line.c	/^readLine(int fd, void *buffer, size_t n)$/;"	f	typeref:typename:ssize_t
+readLine	sockets/read_line.c	/^readLine(int fd, void *buffer, size_t n)$/;"	f	typeref:typename:ssize_t
+readLineBuf	lib/read_line_buf.c	/^readLineBuf(struct ReadLineBuf *rlbuf, char *buffer, size_t n)$/;"	f	typeref:typename:ssize_t
+readLineBuf	sockets/read_line_buf.c	/^readLineBuf(struct ReadLineBuf *rlbuf, char *buffer, size_t n)$/;"	f	typeref:typename:ssize_t
+readLineBufInit	lib/read_line_buf.c	/^readLineBufInit(int fd, struct ReadLineBuf *rlbuf)$/;"	f	typeref:typename:void
+readLineBufInit	sockets/read_line_buf.c	/^readLineBufInit(int fd, struct ReadLineBuf *rlbuf)$/;"	f	typeref:typename:void
+readMap	namespaces/namespaces_of.go	/^func readMap(pid int, mapName string) (bool, string) {$/;"	f	package:main	typeref:typename:(bool, string)
+readn	lib/rdwrn.c	/^readn(int fd, void *buffer, size_t n)$/;"	f	typeref:typename:ssize_t
+readn	sockets/rdwrn.c	/^readn(int fd, void *buffer, size_t n)$/;"	f	typeref:typename:ssize_t
+recur	proc/bad_longjmp.c	/^recur(int n)$/;"	f	typeref:typename:void	file:
+recvfd	lib/scm_functions.c	/^recvfd(int sockfd)$/;"	f	typeref:typename:int
+recvfd	sockets/scm_functions.c	/^recvfd(int sockfd)$/;"	f	typeref:typename:int
+regionIsLocked	filelock/region_locking.c	/^regionIsLocked(int fd, int type, int whence, int start, int len)$/;"	f	typeref:typename:pid_t
+regionIsLocked	lib/region_locking.c	/^regionIsLocked(int fd, int type, int whence, int start, int len)$/;"	f	typeref:typename:pid_t
+reinitialize	inotify/inotify_dtree.c	/^reinitialize(int oldInotifyFd)$/;"	f	typeref:typename:int	file:
+releaseSem	lib/binary_sems.c	/^releaseSem(int semId, int semNum)$/;"	f	typeref:typename:int
+releaseSem	svsem/binary_sems.c	/^releaseSem(int semId, int semNum)$/;"	f	typeref:typename:int
+removeFifo	pipes/fifo_seqnum_client.c	/^removeFifo(void)$/;"	f	typeref:typename:void	file:
+removeQueue	svmsg/svmsg_file_client.c	/^removeQueue(void)$/;"	f	typeref:typename:void	file:
+request	pipes/fifo_seqnum.h	/^struct request {                \/* Request (client --> server) *\/$/;"	s
+requestMsg	svmsg/svmsg_file.h	/^struct requestMsg {                     \/* Requests (client to server) *\/$/;"	s
+reserveSem	lib/binary_sems.c	/^reserveSem(int semId, int semNum)$/;"	f	typeref:typename:int
+reserveSem	svsem/binary_sems.c	/^reserveSem(int semId, int semNum)$/;"	f	typeref:typename:int
+response	pipes/fifo_seqnum.h	/^struct response {               \/* Response (server --> client) *\/$/;"	s
+responseMsg	svmsg/svmsg_file.h	/^struct responseMsg {                    \/* Responses (server to client) *\/$/;"	s
+rewriteCachedPaths	inotify/inotify_dtree.c	/^rewriteCachedPaths(const char *oldPathPrefix, const char *oldName,$/;"	f	typeref:typename:void	file:
+rootDirPaths	inotify/inotify_dtree.c	/^static char **rootDirPaths; \/* List of pathnames supplied on command line *\/$/;"	v	typeref:typename:char **	file:
+rootDirStat	inotify/inotify_dtree.c	/^static struct stat *rootDirStat;$/;"	v	typeref:struct:stat *	file:
+rootNS	namespaces/namespaces_of.go	/^	rootNS NamespaceID$/;"	m	struct:main.NamespaceInfo	typeref:typename:NamespaceID
+rootSlashCnt	cgroups/view_v2_cgroups.go	/^var rootSlashCnt int$/;"	v	package:main	typeref:typename:int
+run	shlibs/demo_Bsymbolic/Makefile	/^run:$/;"	t
+rwlock	threads/thread_incr_rwlock.c	/^static pthread_rwlock_t rwlock;$/;"	v	typeref:typename:pthread_rwlock_t	file:
+scm_cred_recv.o	sockets/Makefile	/^scm_cred_recv.o scm_cred_send.o : scm_cred.h$/;"	t
+scm_cred_send.o	sockets/Makefile	/^scm_cred_recv.o scm_cred_send.o : scm_cred.h$/;"	t
+scm_multi_recv.o	sockets/Makefile	/^scm_multi_recv.o scm_multi_send.o : scm_multi.h$/;"	t
+scm_multi_send.o	sockets/Makefile	/^scm_multi_recv.o scm_multi_send.o : scm_multi.h$/;"	t
+scm_rights_recv.o	sockets/Makefile	/^scm_rights_recv.o scm_rights_send.o : scm_rights.h$/;"	t
+scm_rights_send.o	sockets/Makefile	/^scm_rights_recv.o scm_rights_send.o : scm_rights.h$/;"	t
+seccomp	seccomp/seccomp_arg64.c	/^seccomp(unsigned int operation, unsigned int flags, void *args)$/;"	f	typeref:typename:int	file:
+seccomp	seccomp/seccomp_control_open.c	/^seccomp(unsigned int operation, unsigned int flags, void *args)$/;"	f	typeref:typename:int	file:
+seccomp	seccomp/seccomp_deny_open.c	/^seccomp(unsigned int operation, unsigned int flags, void *args)$/;"	f	typeref:typename:int	file:
+seccomp	seccomp/seccomp_launch.c	/^seccomp(unsigned int operation, unsigned int flags, void *args)$/;"	f	typeref:typename:int	file:
+seccomp	seccomp/seccomp_logging.c	/^seccomp(unsigned int operation, unsigned int flags, void *args)$/;"	f	typeref:typename:int	file:
+seccomp	seccomp/seccomp_multiarch.c	/^seccomp(unsigned int operation, unsigned int flags, void *args)$/;"	f	typeref:typename:int	file:
+seccomp	seccomp/seccomp_perf.c	/^seccomp(unsigned int operation, unsigned int flags, void *arg)$/;"	f	typeref:typename:int	file:
+seccomp	seccomp/seccomp_trap_sigsys.c	/^seccomp(unsigned int operation, unsigned int flags, void *args)$/;"	f	typeref:typename:int	file:
+seccomp	seccomp/seccomp_user_notification.c	/^seccomp(unsigned int operation, unsigned int flags, void *args)$/;"	f	typeref:typename:int	file:
+seccomp_multiarch	seccomp/Makefile	/^seccomp_multiarch : seccomp_multiarch.o$/;"	t
+seccomp_multiarch_i386	seccomp/Makefile	/^seccomp_multiarch_i386 : seccomp_multiarch.c$/;"	t
+secondFilter	seccomp/seccomp_user_notification.c	/^    int  secondFilter;  \/* Install a second BPF filter? *\/$/;"	m	struct:cmdLineOpts	typeref:typename:int	file:
+seek_test	seccomp/seccomp_arg64.c	/^seek_test(int fd, off_t offset)$/;"	f	typeref:typename:void	file:
+sem	psem/thread_incr_psem.c	/^static sem_t sem;$/;"	v	typeref:typename:sem_t	file:
+semun	lib/semun.h	/^union semun {                   \/* Used in calls to semctl() *\/$/;"	u
+semun	svsem/semun.h	/^union semun {                   \/* Used in calls to semctl() *\/$/;"	u
+sendfd	lib/scm_functions.c	/^sendfd(int sockfd, int fd)$/;"	f	typeref:typename:int
+sendfd	sockets/scm_functions.c	/^sendfd(int sockfd, int fd)$/;"	f	typeref:typename:int
+sendfile	sockets/sendfile.c	/^sendfile(int out_fd, int in_fd, off_t *offset, size_t count)$/;"	f	typeref:typename:ssize_t
+senv	signals/sigmask_longjmp.c	/^static sigjmp_buf senv;$/;"	v	typeref:typename:sigjmp_buf	file:
+seqLen	pipes/fifo_seqnum.h	/^    int seqLen;                 \/* Length of desired sequence *\/$/;"	m	struct:request	typeref:typename:int
+seqNum	pipes/fifo_seqnum.h	/^    int seqNum;                 \/* Start of sequence *\/$/;"	m	struct:response	typeref:typename:int
+serveRequest	svmsg/svmsg_file_server.c	/^serveRequest(const struct requestMsg *req)$/;"	f	typeref:typename:void	file:
+setAmbientCapabilities	cap/cap_launcher.c	/^setAmbientCapabilities(char *capList)$/;"	f	typeref:typename:void	file:
+setCredentials	cap/cap_launcher.c	/^setCredentials(char *user)$/;"	f	typeref:typename:void	file:
+setEventFlag	lib/event_flags.c	/^setEventFlag(int semId, int semNum)$/;"	f	typeref:typename:int
+setEventFlag	svsem/event_flags.c	/^setEventFlag(int semId, int semNum)$/;"	f	typeref:typename:int
+setJump	proc/bad_longjmp.c	/^setJump(void)$/;"	f	typeref:typename:void	file:
+setJump2	proc/bad_longjmp.c	/^setJump2(void)$/;"	f	typeref:typename:void	file:
+setPerms	acl/acl_update.c	/^setPerms(acl_entry_t entry, int perms)$/;"	f	typeref:typename:void	file:
+set_process_uids	namespaces/userns_child_exec.c	/^set_process_uids(char *optval)$/;"	f	typeref:typename:void	file:
+set_securebits	namespaces/userns_child_exec.c	/^set_securebits(char *optval)$/;"	f	typeref:typename:void	file:
+setenv	proc/setenv.c	/^setenv(const char *name, const char *value, int overwrite)$/;"	f	typeref:typename:int
+shmseg	svshm/svshm_xfr.h	/^struct shmseg {                 \/* Defines structure of shared memory segment *\/$/;"	s
+showAllPids	namespaces/namespaces_of.go	/^	showAllPids        bool   \/\/ Show all of a process's PIDs (PID NS only)$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+showCommand	namespaces/namespaces_of.go	/^	showCommand        bool   \/\/ Show the command being run by each process$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+showOwner	cgroups/view_v2_cgroups.go	/^	showOwner bool \/\/ Show cgroup ownership$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+showPidnsHierarchy	namespaces/namespaces_of.go	/^	showPidnsHierarchy bool   \/\/ Display the PID namespace hierarchy$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+showPids	cgroups/view_v2_cgroups.go	/^	showPids  bool \/\/ Show member PIDs for each cgroup$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+showPids	namespaces/namespaces_of.go	/^	showPids           bool   \/\/ Show member PIDs for each namespace$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+showTids	cgroups/view_v2_cgroups.go	/^	showTids  bool \/\/ Show member TIDs for each cgroup$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+showUsageAndExit	cgroups/view_v2_cgroups.go	/^func showUsageAndExit(status int) {$/;"	f	package:main
+showUsageAndExit	namespaces/namespaces_of.go	/^func showUsageAndExit(status int) {$/;"	f	package:main
+show_creds	namespaces/Makefile	/^show_creds: show_creds.o$/;"	t
+showall	acl/Makefile	/^showall :$/;"	t
+showall	altio/Makefile	/^showall :$/;"	t
+showall	cap/Makefile	/^showall :$/;"	t
+showall	cgroups/Makefile	/^showall :$/;"	t
+showall	daemons/Makefile	/^showall :$/;"	t
+showall	dirs_links/Makefile	/^showall :$/;"	t
+showall	filebuff/Makefile	/^showall :$/;"	t
+showall	fileio/Makefile	/^showall :$/;"	t
+showall	filelock/Makefile	/^showall :$/;"	t
+showall	files/Makefile	/^showall :$/;"	t
+showall	filesys/Makefile	/^showall :$/;"	t
+showall	getopt/Makefile	/^showall :$/;"	t
+showall	inotify/Makefile	/^showall :$/;"	t
+showall	loginacct/Makefile	/^showall :$/;"	t
+showall	memalloc/Makefile	/^showall :$/;"	t
+showall	mmap/Makefile	/^showall :$/;"	t
+showall	myprog/Makefile	/^showall :$/;"	t
+showall	namespaces/Makefile	/^showall :$/;"	t
+showall	pgsjc/Makefile	/^showall :$/;"	t
+showall	pipes/Makefile	/^showall :$/;"	t
+showall	pmsg/Makefile	/^showall :$/;"	t
+showall	proc/Makefile	/^showall :$/;"	t
+showall	proccred/Makefile	/^showall :$/;"	t
+showall	procexec/Makefile	/^showall :$/;"	t
+showall	procpri/Makefile	/^showall :$/;"	t
+showall	procres/Makefile	/^showall :$/;"	t
+showall	progconc/Makefile	/^showall :$/;"	t
+showall	psem/Makefile	/^showall :$/;"	t
+showall	pshm/Makefile	/^showall :$/;"	t
+showall	pty/Makefile	/^showall :$/;"	t
+showall	seccomp/Makefile	/^showall :$/;"	t
+showall	signals/Makefile	/^showall :$/;"	t
+showall	sockets/Makefile	/^showall :$/;"	t
+showall	svipc/Makefile	/^showall :$/;"	t
+showall	svmsg/Makefile	/^showall :$/;"	t
+showall	svsem/Makefile	/^showall :$/;"	t
+showall	svshm/Makefile	/^showall :$/;"	t
+showall	sysinfo/Makefile	/^showall :$/;"	t
+showall	syslim/Makefile	/^showall :$/;"	t
+showall	threads/Makefile	/^showall :$/;"	t
+showall	time/Makefile	/^showall :$/;"	t
+showall	timers/Makefile	/^showall :$/;"	t
+showall	tty/Makefile	/^showall :$/;"	t
+showall	users_groups/Makefile	/^showall :$/;"	t
+showall	vdso/Makefile	/^showall :$/;"	t
+showall	vmem/Makefile	/^showall :$/;"	t
+showall	xattr/Makefile	/^showall :$/;"	t
+sigCnt	signals/catch_rtsigs.c	/^static volatile int sigCnt = 0;         \/* Number of signals received *\/$/;"	v	typeref:typename:volatile int	file:
+sigCnt	signals/sig_receiver.c	/^static int sigCnt[NSIG];                \/* Counts deliveries of each signal *\/$/;"	v	typeref:typename:int[]	file:
+sigHandler	seccomp/seccomp_trap_sigsys.c	/^sigHandler(int sig)$/;"	f	typeref:typename:void	file:
+sigHandler	signals/intquit.c	/^sigHandler(int sig)$/;"	f	typeref:typename:void	file:
+sigHandler	signals/ouch.c	/^sigHandler(int sig)$/;"	f	typeref:typename:void	file:
+sig_receiver	signals/Makefile	/^sig_receiver : sig_receiver.c$/;"	t
+sigalrmHandler	timers/real_timer.c	/^sigalrmHandler(int sig)$/;"	f	typeref:typename:void	file:
+sigchldHandler	procexec/multi_SIGCHLD.c	/^sigchldHandler(int sig)$/;"	f	typeref:typename:void	file:
+sigfpeCatcher	signals/demo_SIGFPE.c	/^sigfpeCatcher(int sig)$/;"	f	typeref:typename:void	file:
+sighandler_t	lib/signal.c	/^typedef void (*sighandler_t)(int);$/;"	t	typeref:typename:void (*)(int)	file:
+sighandler_t	signals/signal.c	/^typedef void (*sighandler_t)(int);$/;"	t	typeref:typename:void (*)(int)	file:
+sighupHandler	daemons/daemon_SIGHUP.c	/^sighupHandler(int sig)$/;"	f	typeref:typename:void	file:
+siginfoHandler	signals/catch_rtsigs.c	/^siginfoHandler(int sig, siginfo_t *si, void *ucontext)$/;"	f	typeref:typename:void	file:
+sigintCnt	signals/t_sigsuspend.c	/^static volatile int sigintCnt = 0;$/;"	v	typeref:typename:volatile int	file:
+sigintHandler	timers/t_clock_nanosleep.c	/^sigintHandler(int sig)$/;"	f	typeref:typename:void	file:
+sigintHandler	timers/t_nanosleep.c	/^sigintHandler(int sig)$/;"	f	typeref:typename:void	file:
+siginterrupt	signals/siginterrupt.c	/^siginterrupt(int sig, int flag)$/;"	f	typeref:typename:int
+sigioHandler	altio/demo_sigio.c	/^sigioHandler(int sig)$/;"	f	typeref:typename:void	file:
+sigmask_siglongjmp.o	signals/Makefile	/^sigmask_siglongjmp.o : sigmask_longjmp.c$/;"	t
+signal	lib/signal.c	/^signal(int sig, sighandler_t handler)$/;"	f	typeref:typename:sighandler_t
+signal	procexec/demo_clone.c	/^    int    signal;$/;"	m	struct:__anon7c85c2530108	typeref:typename:int	file:
+signal	signals/signal.c	/^signal(int sig, sighandler_t handler)$/;"	f	typeref:typename:sighandler_t
+sigsegvHandler	signals/t_sigaltstack.c	/^sigsegvHandler(int sig)$/;"	f	typeref:typename:void	file:
+sigwinchHandler	tty/demo_SIGWINCH.c	/^sigwinchHandler(int sig)$/;"	f	typeref:typename:void	file:
+sival_int	lib/tlpi_hdr.h	/^#define sival_int /;"	d
+sival_ptr	lib/tlpi_hdr.h	/^#define sival_ptr /;"	d
+sleepTime	threads/thread_multijoin.c	/^    int sleepTime;              \/* Number seconds to live before terminating *\/$/;"	m	struct:__anon6ad110e20108	typeref:typename:int	file:
+socklen_t	lib/tlpi_hdr.h	/^typedef int socklen_t;$/;"	t	typeref:typename:int
+splock	threads/thread_incr_spinlock.c	/^static pthread_spinlock_t splock;$/;"	v	typeref:typename:pthread_spinlock_t	file:
+splock	threads/thread_lock_speed.c	/^static pthread_spinlock_t splock;$/;"	v	typeref:typename:pthread_spinlock_t	file:
+square	proc/mem_segments.c	/^square(int x)                   \/* Allocated in frame for square() *\/$/;"	f	typeref:typename:int	file:
+state	threads/thread_multijoin.c	/^    enum tstate state;          \/* Thread state (TS_* constants above) *\/$/;"	m	struct:__anon6ad110e20108	typeref:enum:tstate	file:
+stopFile	inotify/inotify_dtree.c	/^static char *stopFile;$/;"	v	typeref:typename:char *	file:
+str2	signals/nonreentrant.c	/^static char *str2;              \/* Set from argv[2] *\/$/;"	v	typeref:typename:char *	file:
+strerror	threads/strerror.c	/^strerror(int err)$/;"	f	typeref:typename:char *
+strerror	threads/strerror_tls.c	/^strerror(int err)$/;"	f	typeref:typename:char *
+strerror	threads/strerror_tsd.c	/^strerror(int err)$/;"	f	typeref:typename:char *
+strerrorKey	threads/strerror_tsd.c	/^static pthread_key_t strerrorKey;$/;"	v	typeref:typename:pthread_key_t	file:
+strerror_test	threads/Makefile	/^strerror_test: strerror_test.o strerror.o$/;"	t
+strerror_test_tls	threads/Makefile	/^strerror_test_tls: strerror_test.o strerror_tls.o$/;"	t
+strerror_test_tsd	threads/Makefile	/^strerror_test_tsd: strerror_test.o strerror_tsd.o$/;"	t
+strsignal	lib/alt_functions.h	/^#define strsignal(/;"	d
+subtreePID	namespaces/namespaces_of.go	/^	subtreePID         string \/\/ Display hierarchy rooted at specific PID$/;"	m	struct:main.CmdLineOptions	typeref:typename:string
+svmsg_file_client.o	svmsg/Makefile	/^svmsg_file_client.o svmsg_file_server.o : svmsg_file.h$/;"	t
+svmsg_file_server.o	svmsg/Makefile	/^svmsg_file_client.o svmsg_file_server.o : svmsg_file.h$/;"	t
+svshm_xfr_reader.o	svshm/Makefile	/^svshm_xfr_reader.o svshm_xfr_writer.o: svshm_xfr.h$/;"	t
+svshm_xfr_writer.o	svshm/Makefile	/^svshm_xfr_reader.o svshm_xfr_writer.o: svshm_xfr.h$/;"	t
+syscall_gettimeofday	vdso/Makefile	/^syscall_gettimeofday : gettimeofday.c$/;"	t
+sysconfPrint	syslim/t_sysconf.c	/^sysconfPrint(const char *msg, int name)$/;"	f	typeref:typename:void	file:
+system	procexec/simple_system.c	/^system(char *command)$/;"	f	typeref:typename:int
+system	procexec/system.c	/^system(const char *command)$/;"	f	typeref:typename:int
+t_setns_userns	namespaces/Makefile	/^t_setns_userns: t_setns_userns.o$/;"	t
+tag	acl/acl_update.c	/^    acl_tag_t   tag;            \/* Tag type *\/$/;"	m	struct:AccessControlEntry	typeref:typename:acl_tag_t	file:
+targetProcess	seccomp/seccomp_user_notification.c	/^targetProcess(int sockPair[2], char *argv[], struct cmdLineOpts *opts)$/;"	f	typeref:typename:pid_t	file:
+terminate	lib/error_functions.c	/^terminate(Boolean useExit3)$/;"	f	typeref:typename:void	file:
+test1	shlibs/mod1.c	/^int test1[250000] = { 1, 2, 3 };$/;"	v	typeref:typename:int[250000]
+test2	shlibs/mod2.c	/^int test2[100000] = { 1, 2, 3 };$/;"	v	typeref:typename:int[100000]
+test3	shlibs/mod3.c	/^int test3[10000] = { 1, 2, 3 };$/;"	v	typeref:typename:int[10000]
+test_setns	namespaces/userns_setns_test.c	/^test_setns(char *pname, int fd)$/;"	f	typeref:typename:void	file:
+thread	threads/thread_multijoin.c	/^} *thread;$/;"	v	typeref:struct:__anon6ad110e20108 *
+threadDied	threads/thread_multijoin.c	/^static pthread_cond_t threadDied = PTHREAD_COND_INITIALIZER;$/;"	v	typeref:typename:pthread_cond_t	file:
+threadFunc	altio/multithread_epoll_wait.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	pmsg/mq_notify_thread.c	/^threadFunc(union sigval sv)$/;"	f	typeref:typename:void	file:
+threadFunc	pmsg/mq_notify_via_thread.c	/^threadFunc(union sigval sv)$/;"	f	typeref:typename:void	file:
+threadFunc	psem/thread_incr_psem.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/detached_attrib.c	/^threadFunc(void *x)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/one_time_init.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/prod_condvar.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/prod_no_condvar.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/pthread_barrier_demo.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/simple_thread.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/strerror_test.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/thread_cancel.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/thread_cleanup.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/thread_incr.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/thread_incr_mutex.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/thread_incr_rwlock.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/thread_incr_spinlock.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/thread_lock_speed.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	threads/thread_multijoin.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	timers/cpu_multithread_burner.c	/^threadFunc(void *arg)$/;"	f	typeref:typename:void *	file:
+threadFunc	timers/ptmr_sigev_thread.c	/^threadFunc(union sigval sv)$/;"	f	typeref:typename:void	file:
+threadMutex	threads/thread_multijoin.c	/^static pthread_mutex_t threadMutex = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+tid	threads/thread_multijoin.c	/^    pthread_t tid;              \/* ID of this thread *\/$/;"	m	struct:__anon6ad110e20108	typeref:typename:pthread_t	file:
+totThreads	threads/thread_multijoin.c	/^static int totThreads = 0;      \/* Total number of threads created *\/$/;"	v	typeref:typename:int	file:
+tracerProcess	seccomp/seccomp_user_notification.c	/^tracerProcess(int sockPair[2], struct cmdLineOpts *opts)$/;"	f	typeref:typename:pid_t	file:
+traverseTree	inotify/inotify_dtree.c	/^traverseTree(const char *pathname, const struct stat *sb, int tflag,$/;"	f	typeref:typename:int	file:
+traverseTree	inotify/rand_dtree.c	/^traverseTree(const char *pathname, const struct stat *sb, int tflag,$/;"	f	typeref:typename:int	file:
+tstate	threads/thread_multijoin.c	/^enum tstate {                   \/* Thread states *\/$/;"	g	file:
+tstpHandler	pgsjc/handling_SIGTSTP.c	/^tstpHandler(int sig)$/;"	f	typeref:typename:void	file:
+tstpHandler	tty/test_tty_functions.c	/^tstpHandler(int sig)$/;"	f	typeref:typename:void	file:
+ttyOrig	pty/script.c	/^struct termios ttyOrig;$/;"	v	typeref:struct:termios
+ttyOrig	pty/unbuffer.c	/^struct termios ttyOrig;$/;"	v	typeref:struct:termios
+ttyReset	pty/script.c	/^ttyReset(void)$/;"	f	typeref:typename:void	file:
+ttyReset	pty/unbuffer.c	/^ttyReset(void)$/;"	f	typeref:typename:void	file:
+ttySetCbreak	lib/tty_functions.c	/^ttySetCbreak(int fd, struct termios *prevTermios)$/;"	f	typeref:typename:int
+ttySetCbreak	tty/tty_functions.c	/^ttySetCbreak(int fd, struct termios *prevTermios)$/;"	f	typeref:typename:int
+ttySetRaw	lib/tty_functions.c	/^ttySetRaw(int fd, struct termios *prevTermios)$/;"	f	typeref:typename:int
+ttySetRaw	tty/tty_functions.c	/^ttySetRaw(int fd, struct termios *prevTermios)$/;"	f	typeref:typename:int
+ttyname	tty/ttyname.c	/^ttyname(int fd)$/;"	f	typeref:typename:char *
+ttynameCheckDir	tty/ttyname.c	/^ttynameCheckDir(const struct stat *fdStat, const char *devDir)$/;"	f	typeref:typename:char *	file:
+ud_ucase_cl.o	sockets/Makefile	/^ud_ucase_sv.o ud_ucase_cl.o : ud_ucase.h $/;"	t
+ud_ucase_sv.o	sockets/Makefile	/^ud_ucase_sv.o ud_ucase_cl.o : ud_ucase.h $/;"	t
+uidMap	namespaces/namespaces_of.go	/^	uidMap     string        \/\/ UID map (user NSs only)$/;"	m	struct:main.NamespaceAttribs	typeref:typename:string
+uid_map	namespaces/userns_child_exec.c	/^    char  *uid_map;$/;"	m	struct:cmd_options	typeref:typename:char *	file:
+uid_of_userns_owner	namespaces/ns_capable.c	/^uid_of_userns_owner(int userns_fd)$/;"	f	typeref:typename:int	file:
+umask	procexec/demo_clone.c	/^    mode_t umask;$/;"	m	struct:__anon7c85c2530108	typeref:typename:mode_t	file:
+unixBind	lib/unix_sockets.c	/^unixBind(const char *path, int type)$/;"	f	typeref:typename:int
+unixBind	sockets/unix_sockets.c	/^unixBind(const char *path, int type)$/;"	f	typeref:typename:int
+unixBuildAddress	lib/unix_sockets.c	/^unixBuildAddress(const char *path, struct sockaddr_un *addr)$/;"	f	typeref:typename:int
+unixBuildAddress	sockets/unix_sockets.c	/^unixBuildAddress(const char *path, struct sockaddr_un *addr)$/;"	f	typeref:typename:int
+unixConnect	lib/unix_sockets.c	/^unixConnect(const char *path, int type)$/;"	f	typeref:typename:int
+unixConnect	sockets/unix_sockets.c	/^unixConnect(const char *path, int type)$/;"	f	typeref:typename:int
+unsetenv	proc/setenv.c	/^unsetenv(const char *name)$/;"	f	typeref:typename:int
+unshare	namespaces/Makefile	/^unshare: unshare.o$/;"	t
+update_child_maps	namespaces/userns_child_exec.c	/^update_child_maps(struct cmd_options *opts, pid_t child_pid)$/;"	f	typeref:typename:void	file:
+update_map	lib/userns_functions.c	/^update_map(char *mapping, char *map_file)$/;"	f	typeref:typename:int
+update_map	namespaces/userns_functions.c	/^update_map(char *mapping, char *map_file)$/;"	f	typeref:typename:int
+us_xfr_cl.o	sockets/Makefile	/^us_xfr_sv.o us_xfr_cl.o : us_xfr.h $/;"	t
+us_xfr_sv.o	sockets/Makefile	/^us_xfr_sv.o us_xfr_cl.o : us_xfr.h $/;"	t
+us_xfr_v2_cl.o	sockets/Makefile	/^us_xfr_v2_sv.o us_xfr_v2_cl.o : us_xfr_v2.h $/;"	t
+us_xfr_v2_sv.o	sockets/Makefile	/^us_xfr_v2_sv.o us_xfr_v2_cl.o : us_xfr_v2.h $/;"	t
+usage	cap/cap_launcher.c	/^usage(char *pname)$/;"	f	typeref:typename:void	file:
+usage	namespaces/cred_launcher.c	/^usage(char *pname)$/;"	f	typeref:typename:void	file:
+usage	namespaces/ns_child_exec.c	/^usage(char *pname)$/;"	f	typeref:typename:void	file:
+usage	namespaces/ns_run.c	/^usage(char *pname)$/;"	f	typeref:typename:void	file:
+usage	namespaces/simple_init.c	/^usage(char *pname)$/;"	f	typeref:typename:void	file:
+usage	namespaces/unshare.c	/^usage(char *pname)$/;"	f	typeref:typename:void	file:
+usage	namespaces/userns_child_exec.c	/^usage(char *pname)$/;"	f	typeref:typename:void	file:
+usageErr	lib/error_functions.c	/^usageErr(const char *format, ...)$/;"	f	typeref:typename:void
+usageError	acl/acl_update.c	/^usageError(char *progName, char *msg, Boolean shortUsage)$/;"	f	typeref:typename:void	file:
+usageError	acl/acl_view.c	/^usageError(char *progName)$/;"	f	typeref:typename:void	file:
+usageError	altio/epoll_flags_fork.c	/^usageError(char *pname)$/;"	f	typeref:typename:void	file:
+usageError	altio/t_select.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	daemons/t_syslog.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	dirs_links/nftw_dir_tree.c	/^usageError(const char *progName, const char *msg)$/;"	f	typeref:typename:void	file:
+usageError	files/chiflag.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	filesys/t_mount.c	/^usageError(const char *progName, const char *msg)$/;"	f	typeref:typename:void	file:
+usageError	getopt/t_getopt.c	/^usageError(char *progName, char *msg, int opt)$/;"	f	typeref:typename:void	file:
+usageError	inotify/dnotify.c	/^usageError(const char *progName, const char *msg)$/;"	f	typeref:typename:void	file:
+usageError	inotify/inotify_dtree.c	/^usageError(const char *pname)$/;"	f	typeref:typename:void	file:
+usageError	inotify/rand_dtree.c	/^usageError(char *pname)$/;"	f	typeref:typename:void	file:
+usageError	pmsg/pmsg_create.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	pmsg/pmsg_receive.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	pmsg/pmsg_send.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	procexec/demo_clone.c	/^usageError(char *progName)$/;"	f	typeref:typename:void	file:
+usageError	psem/psem_create.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	pshm/pshm_create.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	seccomp/seccomp_launch.c	/^usageError(char *pname, char *msg)$/;"	f	typeref:typename:void	file:
+usageError	seccomp/seccomp_user_notification.c	/^usageError(char *msg, char *pname)$/;"	f	typeref:typename:void	file:
+usageError	sockets/scm_multi_send.c	/^usageError(char *pname)$/;"	f	typeref:typename:void	file:
+usageError	svmsg/svmsg_create.c	/^usageError(const char *progName, const char *msg)$/;"	f	typeref:typename:void	file:
+usageError	svmsg/svmsg_receive.c	/^usageError(const char *progName, const char *msg)$/;"	f	typeref:typename:void	file:
+usageError	svmsg/svmsg_send.c	/^usageError(const char *progName, const char *msg)$/;"	f	typeref:typename:void	file:
+usageError	svsem/svsem_create.c	/^usageError(const char *progName, const char *msg)$/;"	f	typeref:typename:void	file:
+usageError	svsem/svsem_op.c	/^usageError(const char *progName)$/;"	f	typeref:typename:void	file:
+usageError	svshm/svshm_attach.c	/^usageError(char *progName)$/;"	f	typeref:typename:void	file:
+usageError	svshm/svshm_create.c	/^usageError(const char *progName, const char *msg)$/;"	f	typeref:typename:void	file:
+usageError	threads/thread_lock_speed.c	/^usageError(char *pname)$/;"	f	typeref:typename:void	file:
+usageError	xattr/xattr_view.c	/^usageError(char *progName)$/;"	f	typeref:typename:void	file:
+useCPU	procpri/demo_sched_fifo.c	/^useCPU(char *msg)$/;"	f	typeref:typename:void	file:
+useColor	cgroups/view_v2_cgroups.go	/^	useColor  bool \/\/ Use color in the output$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+useColor	namespaces/namespaces_of.go	/^	useColor           bool   \/\/ Use color in the output$/;"	m	struct:main.CmdLineOptions	typeref:typename:bool
+useMutex	threads/thread_lock_speed.c	/^static int useMutex = 0;$/;"	v	typeref:typename:int	file:
+userIdFromName	lib/ugid_functions.c	/^userIdFromName(const char *name)$/;"	f	typeref:typename:uid_t
+userIdFromName	users_groups/ugid_functions.c	/^userIdFromName(const char *name)$/;"	f	typeref:typename:uid_t
+userNameFromId	lib/ugid_functions.c	/^userNameFromId(uid_t uid)$/;"	f	typeref:typename:char *
+userNameFromId	users_groups/ugid_functions.c	/^userNameFromId(uid_t uid)$/;"	f	typeref:typename:char *
+userTermios	tty/test_tty_functions.c	/^static struct termios userTermios;$/;"	v	typeref:struct:termios	file:
+userns_child_exec	namespaces/Makefile	/^userns_child_exec: userns_child_exec.o$/;"	t
+userns_setns_test	namespaces/Makefile	/^userns_setns_test: userns_setns_test.o$/;"	t
+val	lib/semun.h	/^    int                 val;$/;"	m	union:semun	typeref:typename:int
+val	namespaces/userns_child_exec.c	/^    char *val;$/;"	m	struct:option_list	typeref:typename:char *	file:
+val	svsem/semun.h	/^    int                 val;$/;"	m	union:semun	typeref:typename:int
+vdso_gettimeofday	vdso/Makefile	/^vdso_gettimeofday : gettimeofday.c$/;"	t
+verbose	namespaces/simple_init.c	/^static int verbose = 0;$/;"	v	typeref:typename:int	file:
+verbose	namespaces/userns_child_exec.c	/^    int    verbose;$/;"	m	struct:cmd_options	typeref:typename:int	file:
+verboseMask	inotify/inotify_dtree.c	/^static int verboseMask;$/;"	v	typeref:typename:int	file:
+vis_comm	shlibs/version_scripts/vis_comm.c	/^vis_comm(int j)$/;"	f	typeref:typename:int
+vis_f1	shlibs/version_scripts/vis_f1.c	/^vis_f1(int k)$/;"	f	typeref:typename:int
+vis_f2	shlibs/version_scripts/vis_f2.c	/^vis_f2(int k)$/;"	f	typeref:typename:int
+waitForEventFlag	lib/event_flags.c	/^waitForEventFlag(int semId, int semNum)$/;"	f	typeref:typename:int
+waitForEventFlag	svsem/event_flags.c	/^waitForEventFlag(int semId, int semNum)$/;"	f	typeref:typename:int
+walkFn	cgroups/view_v2_cgroups.go	/^func walkFn(path string, fi os.FileInfo, e error) error {$/;"	f	package:main	typeref:typename:error
+watch	inotify/inotify_dtree.c	/^struct watch {$/;"	s	file:
+watchDir	inotify/inotify_dtree.c	/^watchDir(int inotifyFd, const char *pathname)$/;"	f	typeref:typename:int	file:
+watchForNotifications	seccomp/seccomp_user_notification.c	/^watchForNotifications(int notifyFd, struct cmdLineOpts *opts)$/;"	f	typeref:typename:void	file:
+watchSubtree	inotify/inotify_dtree.c	/^watchSubtree(int inotifyFd, char *path)$/;"	f	typeref:typename:void	file:
+wd	inotify/inotify_dtree.c	/^    int wd;                     \/* Watch descriptor (-1 if slot unused) *\/$/;"	m	struct:watch	typeref:typename:int	file:
+wlCache	inotify/inotify_dtree.c	/^struct watch *wlCache = NULL;   \/* Array of cached items *\/$/;"	v	typeref:struct:watch *
+wrapText	cgroups/view_v2_cgroups.go	/^func wrapText(text string, prefix string, width int, indent string) string {$/;"	f	package:main	typeref:typename:string
+wrapText	namespaces/namespaces_of.go	/^func wrapText(text string, width int, indent string) string {$/;"	f	package:main	typeref:typename:string
+write_bytes_fdatasync	filebuff/Makefile	/^write_bytes_fdatasync : write_bytes.c$/;"	t
+write_bytes_fsync	filebuff/Makefile	/^write_bytes_fsync : write_bytes.c$/;"	t
+write_bytes_o_sync	filebuff/Makefile	/^write_bytes_o_sync : write_bytes.c$/;"	t
+writen	lib/rdwrn.c	/^writen(int fd, const void *buffer, size_t n)$/;"	f	typeref:typename:ssize_t
+writen	sockets/rdwrn.c	/^writen(int fd, const void *buffer, size_t n)$/;"	f	typeref:typename:ssize_t
+x1	shlibs/mod1.c	/^x1(void) {$/;"	f	typeref:typename:void
+x2	shlibs/mod2.c	/^x2(void) {$/;"	f	typeref:typename:void
+x3	shlibs/mod3.c	/^x3(void) {$/;"	f	typeref:typename:void
+xyz	shlibs/demo_Bsymbolic/foo1.c	/^xyz(void)$/;"	f	typeref:typename:void
+xyz	shlibs/demo_Bsymbolic/foo2.c	/^xyz(void)$/;"	f	typeref:typename:void
+xyz	shlibs/demo_Bsymbolic/foo3.c	/^xyz(void)$/;"	f	typeref:typename:void
+xyz	shlibs/demo_Bsymbolic/prog.c	/^xyz(void)$/;"	f	typeref:typename:void
+xyz	shlibs/version_scripts/sv_lib_v1.c	/^void xyz(void) { printf("v1 xyz()\\n"); }$/;"	f	typeref:typename:void
+xyz_new	shlibs/version_scripts/sv_lib_v2.c	/^void xyz_new(void) { printf("v2 xyz\\n"); }$/;"	f	typeref:typename:void
+xyz_old	shlibs/version_scripts/sv_lib_v2.c	/^void xyz_old(void) { printf("v1 xyz\\n"); }$/;"	f	typeref:typename:void
+zapRootDirPath	inotify/inotify_dtree.c	/^zapRootDirPath(const char *path)$/;"	f	typeref:typename:void	file:
+zapSubtree	inotify/inotify_dtree.c	/^zapSubtree(int inotifyFd, char *path)$/;"	f	typeref:typename:int	file:
